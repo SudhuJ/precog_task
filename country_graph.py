@@ -39,26 +39,37 @@ for edge in edges:
     G.add_edge(edge[0], edge[1])
 
 print("Number of nodes:", G.number_of_nodes())
-print("Number of nodes:", G.number_of_edges())
-
+print("Number of edges:", G.number_of_edges())
 
 net = Network(notebook=True, cdn_resources='in_line', height='1000px', width='100%')
 net.from_nx(G)
-
 net.set_options("""
 {
   "physics": {
-    "enabled": false
+    "enabled": true,
+    "barnesHut": {
+      "gravitationalConstant": -100000,
+      "springLength": 500,
+      "springConstant": 0.01
+    },
+    "solver": "barnesHut",
+    "stabilization": {
+      "iterations": 1000,
+      "updateInterval": 25
+    }
   },
   "layout": {
     "randomSeed": 2,
-    "improvedLayout": true
+    "improvedLayout": true,
+    "nodeDistance": 250
   },
   "nodes": {
-    "size": 10,
+    "size": 20,
     "font": {
-      "size": 14
+      "size": 150,
+      "align": "center"
     },
+    "labelPadding": 10,
     "borderWidth": 2,
     "shape": "dot"
   },
@@ -72,4 +83,5 @@ net.set_options("""
   }
 }
 """)
-net.show("countries_graph.html")
+
+net.show("country_graph.html")
