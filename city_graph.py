@@ -1,6 +1,30 @@
 import networkx as nx
 from pyvis.network import Network
 
+def get_graph_diameter_and_path(G):
+    if not nx.is_connected(G):
+        raise ValueError("Graph must be connected to compute diameter.")
+    
+    # Compute the diameter
+    diameter = nx.diameter(G)
+    
+    # Get periphery nodes (nodes farthest from others)
+    periphery_nodes = nx.periphery(G)
+
+    # Find the two nodes that are farthest apart
+    max_path = []
+    for u in periphery_nodes:
+        for v in periphery_nodes:
+            if u != v:
+                path = nx.shortest_path(G, source=u, target=v)
+                if len(path) - 1 == diameter:
+                    max_path = path
+                    break
+        if max_path:
+            break
+
+    return diameter, max_path
+
 cities = ["Tokyo", "Boston", "New York", "Sydney", "Singapore", "Dallas-Fort Worth", "Seoul", "Houston", "Chicago", "Paris", "London", "San Francisco - San Jose", 
           "Atlanta", "Seattle", "Shanghai", "Stockholm", "Miami", "Washington DC", "Beijing", "Los Angeles", "Austin", "Vienna", "Taipei", "Amsterdam", "Oslo", 
           "Shenzhen", "Las Vegas", "Denver", "Dubai", "Osaka", "Berlin", "Istanbul", "Melbourne", "Moscow", "Philadelphia", "Portland", "Minneapolis-St Paul", 
@@ -65,8 +89,8 @@ net.set_options("""
     "enabled": true,
     "barnesHut": {
       "gravitationalConstant": -100000,
-      "springLength": 1000,
-      "springConstant": 0.001
+      "springLength": 500,
+      "springConstant": 0.01
     },
     "solver": "barnesHut",
     "stabilization": {
@@ -77,12 +101,12 @@ net.set_options("""
   "layout": {
     "randomSeed": 2,
     "improvedLayout": true,
-    "nodeDistance": 1000
+    "nodeDistance": 500
   },
   "nodes": {
     "size": 20,
     "font": {
-      "size": 500,
+      "size": 150,
       "align": "center"
     },
     "labelPadding": 10,

@@ -1,5 +1,6 @@
 import networkx as nx
 from pyvis.network import Network
+import matplotlib.pyplot as plt
 
 countries = [
     "Afghanistan", "Albania", "Algeria", "Andorra", "Angola", "Antigua and Barbuda", "Argentina", "Armenia", 
@@ -41,47 +42,50 @@ for edge in edges:
 print("Number of nodes:", G.number_of_nodes())
 print("Number of edges:", G.number_of_edges())
 
-net = Network(notebook=True, cdn_resources='in_line', height='1000px', width='100%')
-net.from_nx(G)
-net.set_options("""
-{
-  "physics": {
-    "enabled": true,
-    "barnesHut": {
-      "gravitationalConstant": -100000,
-      "springLength": 500,
-      "springConstant": 0.01
-    },
-    "solver": "barnesHut",
-    "stabilization": {
-      "iterations": 1000,
-      "updateInterval": 25
-    }
-  },
-  "layout": {
-    "randomSeed": 2,
-    "improvedLayout": true,
-    "nodeDistance": 250
-  },
-  "nodes": {
-    "size": 20,
-    "font": {
-      "size": 150,
-      "align": "center"
-    },
-    "labelPadding": 10,
-    "borderWidth": 2,
-    "shape": "dot"
-  },
-  "edges": {
-    "arrows": {
-      "to": {
-        "enabled": true,
-        "scaleFactor": 1.5
-      }
-    }
-  }
-}
-""")
 
-net.show("country_graph.html")
+nx.write_gexf(G, "graph.gexf")
+
+# net = Network(notebook=True, cdn_resources='in_line', height='1000px', width='100%')
+# net.from_nx(G)
+# net.set_options("""
+# {
+#   "physics": {
+#     "enabled": true,
+#     "barnesHut": {
+#       "gravitationalConstant": -100000,
+#       "springLength": 500,
+#       "springConstant": 0.01
+#     },
+#     "solver": "barnesHut",
+#     "stabilization": {
+#       "iterations": 1000,
+#       "updateInterval": 25
+#     }
+#   },
+#   "layout": {
+#     "randomSeed": 2,
+#     "improvedLayout": true,
+#     "nodeDistance": 250
+#   },
+#   "nodes": {
+#     "size": 20,
+#     "font": {
+#       "size": 150,
+#       "align": "center"
+#     },
+#     "labelPadding": 10,
+#     "borderWidth": 2,
+#     "shape": "dot"
+#   },
+#   "edges": {
+#     "arrows": {
+#       "to": {
+#         "enabled": true,
+#         "scaleFactor": 1.5
+#       }
+#     }
+#   }
+# }
+# """)
+
+# net.show("country_graph.html")
