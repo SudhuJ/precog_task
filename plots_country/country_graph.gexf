@@ -1,0 +1,2189 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-02-08">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="Afghanistan" label="Afghanistan" />
+      <node id="Namibia" label="Namibia" />
+      <node id="Nauru" label="Nauru" />
+      <node id="Nepal" label="Nepal" />
+      <node id="Netherlands" label="Netherlands" />
+      <node id="New Zealand" label="New Zealand" />
+      <node id="Nicaragua" label="Nicaragua" />
+      <node id="Niger" label="Niger" />
+      <node id="Nigeria" label="Nigeria" />
+      <node id="North Korea" label="North Korea" />
+      <node id="North Macedonia" label="North Macedonia" />
+      <node id="Norway" label="Norway" />
+      <node id="Albania" label="Albania" />
+      <node id="Algeria" label="Algeria" />
+      <node id="Andorra" label="Andorra" />
+      <node id="Angola" label="Angola" />
+      <node id="Antigua and Barbuda" label="Antigua and Barbuda" />
+      <node id="Argentina" label="Argentina" />
+      <node id="Armenia" label="Armenia" />
+      <node id="Australia" label="Australia" />
+      <node id="Austria" label="Austria" />
+      <node id="Azerbaijan" label="Azerbaijan" />
+      <node id="Bahamas" label="Bahamas" />
+      <node id="Saint Kitts and Nevis" label="Saint Kitts and Nevis" />
+      <node id="Saint Lucia" label="Saint Lucia" />
+      <node id="Saint Vincent and the Grenadines" label="Saint Vincent and the Grenadines" />
+      <node id="Samoa" label="Samoa" />
+      <node id="San Marino" label="San Marino" />
+      <node id="Sao Tome and Principe" label="Sao Tome and Principe" />
+      <node id="Saudi Arabia" label="Saudi Arabia" />
+      <node id="Senegal" label="Senegal" />
+      <node id="Serbia" label="Serbia" />
+      <node id="Seychelles" label="Seychelles" />
+      <node id="Sierra Leone" label="Sierra Leone" />
+      <node id="Singapore" label="Singapore" />
+      <node id="Slovakia" label="Slovakia" />
+      <node id="Slovenia" label="Slovenia" />
+      <node id="Solomon Islands" label="Solomon Islands" />
+      <node id="Somalia" label="Somalia" />
+      <node id="South Africa" label="South Africa" />
+      <node id="South Sudan" label="South Sudan" />
+      <node id="Spain" label="Spain" />
+      <node id="Sri Lanka" label="Sri Lanka" />
+      <node id="Sudan" label="Sudan" />
+      <node id="Suriname" label="Suriname" />
+      <node id="Sweden" label="Sweden" />
+      <node id="Switzerland" label="Switzerland" />
+      <node id="Syria" label="Syria" />
+      <node id="Bahrain" label="Bahrain" />
+      <node id="Bangladesh" label="Bangladesh" />
+      <node id="Haiti" label="Haiti" />
+      <node id="Honduras" label="Honduras" />
+      <node id="Hungary" label="Hungary" />
+      <node id="Barbados" label="Barbados" />
+      <node id="Belarus" label="Belarus" />
+      <node id="Belgium" label="Belgium" />
+      <node id="Madagascar" label="Madagascar" />
+      <node id="Malawi" label="Malawi" />
+      <node id="Malaysia" label="Malaysia" />
+      <node id="Maldives" label="Maldives" />
+      <node id="Mali" label="Mali" />
+      <node id="Malta" label="Malta" />
+      <node id="Marshall Islands" label="Marshall Islands" />
+      <node id="Mauritania" label="Mauritania" />
+      <node id="Mauritius" label="Mauritius" />
+      <node id="Mexico" label="Mexico" />
+      <node id="Micronesia" label="Micronesia" />
+      <node id="Moldova" label="Moldova" />
+      <node id="Monaco" label="Monaco" />
+      <node id="Mongolia" label="Mongolia" />
+      <node id="Montenegro" label="Montenegro" />
+      <node id="Morocco" label="Morocco" />
+      <node id="Mozambique" label="Mozambique" />
+      <node id="Myanmar" label="Myanmar" />
+      <node id="Belize" label="Belize" />
+      <node id="Ecuador" label="Ecuador" />
+      <node id="Egypt" label="Egypt" />
+      <node id="El Salvador" label="El Salvador" />
+      <node id="Equatorial Guinea" label="Equatorial Guinea" />
+      <node id="Eritrea" label="Eritrea" />
+      <node id="Estonia" label="Estonia" />
+      <node id="Eswatini" label="Eswatini" />
+      <node id="Ethiopia" label="Ethiopia" />
+      <node id="Benin" label="Benin" />
+      <node id="Bhutan" label="Bhutan" />
+      <node id="Bolivia" label="Bolivia" />
+      <node id="Bosnia and Herzegovina" label="Bosnia and Herzegovina" />
+      <node id="Botswana" label="Botswana" />
+      <node id="Brazil" label="Brazil" />
+      <node id="Laos" label="Laos" />
+      <node id="Latvia" label="Latvia" />
+      <node id="Lebanon" label="Lebanon" />
+      <node id="Lesotho" label="Lesotho" />
+      <node id="Liberia" label="Liberia" />
+      <node id="Libya" label="Libya" />
+      <node id="Liechtenstein" label="Liechtenstein" />
+      <node id="Lithuania" label="Lithuania" />
+      <node id="Luxembourg" label="Luxembourg" />
+      <node id="Brunei" label="Brunei" />
+      <node id="Iceland" label="Iceland" />
+      <node id="India" label="India" />
+      <node id="Indonesia" label="Indonesia" />
+      <node id="Iran" label="Iran" />
+      <node id="Iraq" label="Iraq" />
+      <node id="Ireland" label="Ireland" />
+      <node id="Israel" label="Israel" />
+      <node id="Italy" label="Italy" />
+      <node id="Bulgaria" label="Bulgaria" />
+      <node id="Burkina Faso" label="Burkina Faso" />
+      <node id="Oman" label="Oman" />
+      <node id="Burundi" label="Burundi" />
+      <node id="Cabo Verde" label="Cabo Verde" />
+      <node id="Cambodia" label="Cambodia" />
+      <node id="Cameroon" label="Cameroon" />
+      <node id="Canada" label="Canada" />
+      <node id="Central African Republic" label="Central African Republic" />
+      <node id="Chad" label="Chad" />
+      <node id="Chile" label="Chile" />
+      <node id="China" label="China" />
+      <node id="Colombia" label="Colombia" />
+      <node id="Comoros" label="Comoros" />
+      <node id="Congo" label="Congo" />
+      <node id="Costa Rica" label="Costa Rica" />
+      <node id="Croatia" label="Croatia" />
+      <node id="Cuba" label="Cuba" />
+      <node id="Cyprus" label="Cyprus" />
+      <node id="Czechia" label="Czechia" />
+      <node id="Democratic Republic of the Congo" label="Democratic Republic of the Congo" />
+      <node id="Denmark" label="Denmark" />
+      <node id="Djibouti" label="Djibouti" />
+      <node id="Dominica" label="Dominica" />
+      <node id="Dominican Republic" label="Dominican Republic" />
+      <node id="Kazakhstan" label="Kazakhstan" />
+      <node id="Kenya" label="Kenya" />
+      <node id="Kiribati" label="Kiribati" />
+      <node id="Kuwait" label="Kuwait" />
+      <node id="Kyrgyzstan" label="Kyrgyzstan" />
+      <node id="Romania" label="Romania" />
+      <node id="Russia" label="Russia" />
+      <node id="Rwanda" label="Rwanda" />
+      <node id="Taiwan" label="Taiwan" />
+      <node id="Tajikistan" label="Tajikistan" />
+      <node id="Tanzania" label="Tanzania" />
+      <node id="Thailand" label="Thailand" />
+      <node id="Timor-Leste" label="Timor-Leste" />
+      <node id="Togo" label="Togo" />
+      <node id="Tonga" label="Tonga" />
+      <node id="Trinidad and Tobago" label="Trinidad and Tobago" />
+      <node id="Tunisia" label="Tunisia" />
+      <node id="Turkey" label="Turkey" />
+      <node id="Turkmenistan" label="Turkmenistan" />
+      <node id="Tuvalu" label="Tuvalu" />
+      <node id="Fiji" label="Fiji" />
+      <node id="Finland" label="Finland" />
+      <node id="France" label="France" />
+      <node id="Gabon" label="Gabon" />
+      <node id="Gambia" label="Gambia" />
+      <node id="Georgia" label="Georgia" />
+      <node id="Germany" label="Germany" />
+      <node id="Yemen" label="Yemen" />
+      <node id="Ghana" label="Ghana" />
+      <node id="Greece" label="Greece" />
+      <node id="Grenada" label="Grenada" />
+      <node id="Guatemala" label="Guatemala" />
+      <node id="Guinea" label="Guinea" />
+      <node id="Guinea-Bissau" label="Guinea-Bissau" />
+      <node id="Uganda" label="Uganda" />
+      <node id="Ukraine" label="Ukraine" />
+      <node id="United Arab Emirates" label="United Arab Emirates" />
+      <node id="United Kingdom" label="United Kingdom" />
+      <node id="United States" label="United States" />
+      <node id="Uruguay" label="Uruguay" />
+      <node id="Uzbekistan" label="Uzbekistan" />
+      <node id="Guyana" label="Guyana" />
+      <node id="Qatar" label="Qatar" />
+      <node id="Jamaica" label="Jamaica" />
+      <node id="Japan" label="Japan" />
+      <node id="Jordan" label="Jordan" />
+      <node id="Pakistan" label="Pakistan" />
+      <node id="Palau" label="Palau" />
+      <node id="Panama" label="Panama" />
+      <node id="Papua New Guinea" label="Papua New Guinea" />
+      <node id="Paraguay" label="Paraguay" />
+      <node id="Peru" label="Peru" />
+      <node id="Philippines" label="Philippines" />
+      <node id="Poland" label="Poland" />
+      <node id="Portugal" label="Portugal" />
+      <node id="Vanuatu" label="Vanuatu" />
+      <node id="Vatican City" label="Vatican City" />
+      <node id="Venezuela" label="Venezuela" />
+      <node id="Vietnam" label="Vietnam" />
+      <node id="Zambia" label="Zambia" />
+      <node id="Zimbabwe" label="Zimbabwe" />
+    </nodes>
+    <edges>
+      <edge source="Afghanistan" target="Namibia" id="0" />
+      <edge source="Afghanistan" target="Nauru" id="1" />
+      <edge source="Afghanistan" target="Nepal" id="2" />
+      <edge source="Afghanistan" target="Netherlands" id="3" />
+      <edge source="Afghanistan" target="New Zealand" id="4" />
+      <edge source="Afghanistan" target="Nicaragua" id="5" />
+      <edge source="Afghanistan" target="Niger" id="6" />
+      <edge source="Afghanistan" target="Nigeria" id="7" />
+      <edge source="Afghanistan" target="North Korea" id="8" />
+      <edge source="Afghanistan" target="North Macedonia" id="9" />
+      <edge source="Afghanistan" target="Norway" id="10" />
+      <edge source="Namibia" target="Afghanistan" id="11" />
+      <edge source="Namibia" target="Albania" id="12" />
+      <edge source="Namibia" target="Algeria" id="13" />
+      <edge source="Namibia" target="Andorra" id="14" />
+      <edge source="Namibia" target="Angola" id="15" />
+      <edge source="Namibia" target="Antigua and Barbuda" id="16" />
+      <edge source="Namibia" target="Argentina" id="17" />
+      <edge source="Namibia" target="Armenia" id="18" />
+      <edge source="Namibia" target="Australia" id="19" />
+      <edge source="Namibia" target="Austria" id="20" />
+      <edge source="Namibia" target="Azerbaijan" id="21" />
+      <edge source="Nauru" target="Uganda" id="22" />
+      <edge source="Nauru" target="Ukraine" id="23" />
+      <edge source="Nauru" target="United Arab Emirates" id="24" />
+      <edge source="Nauru" target="United Kingdom" id="25" />
+      <edge source="Nauru" target="United States" id="26" />
+      <edge source="Nauru" target="Uruguay" id="27" />
+      <edge source="Nauru" target="Uzbekistan" id="28" />
+      <edge source="Nepal" target="Laos" id="29" />
+      <edge source="Nepal" target="Latvia" id="30" />
+      <edge source="Nepal" target="Lebanon" id="31" />
+      <edge source="Nepal" target="Lesotho" id="32" />
+      <edge source="Nepal" target="Liberia" id="33" />
+      <edge source="Nepal" target="Libya" id="34" />
+      <edge source="Nepal" target="Liechtenstein" id="35" />
+      <edge source="Nepal" target="Lithuania" id="36" />
+      <edge source="Nepal" target="Luxembourg" id="37" />
+      <edge source="Netherlands" target="Saint Kitts and Nevis" id="38" />
+      <edge source="Netherlands" target="Saint Lucia" id="39" />
+      <edge source="Netherlands" target="Saint Vincent and the Grenadines" id="40" />
+      <edge source="Netherlands" target="Samoa" id="41" />
+      <edge source="Netherlands" target="San Marino" id="42" />
+      <edge source="Netherlands" target="Sao Tome and Principe" id="43" />
+      <edge source="Netherlands" target="Saudi Arabia" id="44" />
+      <edge source="Netherlands" target="Senegal" id="45" />
+      <edge source="Netherlands" target="Serbia" id="46" />
+      <edge source="Netherlands" target="Seychelles" id="47" />
+      <edge source="Netherlands" target="Sierra Leone" id="48" />
+      <edge source="Netherlands" target="Singapore" id="49" />
+      <edge source="Netherlands" target="Slovakia" id="50" />
+      <edge source="Netherlands" target="Slovenia" id="51" />
+      <edge source="Netherlands" target="Solomon Islands" id="52" />
+      <edge source="Netherlands" target="Somalia" id="53" />
+      <edge source="Netherlands" target="South Africa" id="54" />
+      <edge source="Netherlands" target="South Sudan" id="55" />
+      <edge source="Netherlands" target="Spain" id="56" />
+      <edge source="Netherlands" target="Sri Lanka" id="57" />
+      <edge source="Netherlands" target="Sudan" id="58" />
+      <edge source="Netherlands" target="Suriname" id="59" />
+      <edge source="Netherlands" target="Sweden" id="60" />
+      <edge source="Netherlands" target="Switzerland" id="61" />
+      <edge source="Netherlands" target="Syria" id="62" />
+      <edge source="New Zealand" target="Democratic Republic of the Congo" id="63" />
+      <edge source="New Zealand" target="Denmark" id="64" />
+      <edge source="New Zealand" target="Djibouti" id="65" />
+      <edge source="New Zealand" target="Dominica" id="66" />
+      <edge source="New Zealand" target="Dominican Republic" id="67" />
+      <edge source="Nicaragua" target="Afghanistan" id="68" />
+      <edge source="Nicaragua" target="Albania" id="69" />
+      <edge source="Nicaragua" target="Algeria" id="70" />
+      <edge source="Nicaragua" target="Andorra" id="71" />
+      <edge source="Nicaragua" target="Angola" id="72" />
+      <edge source="Nicaragua" target="Antigua and Barbuda" id="73" />
+      <edge source="Nicaragua" target="Argentina" id="74" />
+      <edge source="Nicaragua" target="Armenia" id="75" />
+      <edge source="Nicaragua" target="Australia" id="76" />
+      <edge source="Nicaragua" target="Austria" id="77" />
+      <edge source="Nicaragua" target="Azerbaijan" id="78" />
+      <edge source="Niger" target="Romania" id="79" />
+      <edge source="Niger" target="Russia" id="80" />
+      <edge source="Niger" target="Rwanda" id="81" />
+      <edge source="Nigeria" target="Afghanistan" id="82" />
+      <edge source="Nigeria" target="Albania" id="83" />
+      <edge source="Nigeria" target="Algeria" id="84" />
+      <edge source="Nigeria" target="Andorra" id="85" />
+      <edge source="Nigeria" target="Angola" id="86" />
+      <edge source="Nigeria" target="Antigua and Barbuda" id="87" />
+      <edge source="Nigeria" target="Argentina" id="88" />
+      <edge source="Nigeria" target="Armenia" id="89" />
+      <edge source="Nigeria" target="Australia" id="90" />
+      <edge source="Nigeria" target="Austria" id="91" />
+      <edge source="Nigeria" target="Azerbaijan" id="92" />
+      <edge source="North Korea" target="Afghanistan" id="93" />
+      <edge source="North Korea" target="Albania" id="94" />
+      <edge source="North Korea" target="Algeria" id="95" />
+      <edge source="North Korea" target="Andorra" id="96" />
+      <edge source="North Korea" target="Angola" id="97" />
+      <edge source="North Korea" target="Antigua and Barbuda" id="98" />
+      <edge source="North Korea" target="Argentina" id="99" />
+      <edge source="North Korea" target="Armenia" id="100" />
+      <edge source="North Korea" target="Australia" id="101" />
+      <edge source="North Korea" target="Austria" id="102" />
+      <edge source="North Korea" target="Azerbaijan" id="103" />
+      <edge source="North Macedonia" target="Afghanistan" id="104" />
+      <edge source="North Macedonia" target="Albania" id="105" />
+      <edge source="North Macedonia" target="Algeria" id="106" />
+      <edge source="North Macedonia" target="Andorra" id="107" />
+      <edge source="North Macedonia" target="Angola" id="108" />
+      <edge source="North Macedonia" target="Antigua and Barbuda" id="109" />
+      <edge source="North Macedonia" target="Argentina" id="110" />
+      <edge source="North Macedonia" target="Armenia" id="111" />
+      <edge source="North Macedonia" target="Australia" id="112" />
+      <edge source="North Macedonia" target="Austria" id="113" />
+      <edge source="North Macedonia" target="Azerbaijan" id="114" />
+      <edge source="Norway" target="Yemen" id="115" />
+      <edge source="Albania" target="Afghanistan" id="116" />
+      <edge source="Albania" target="Algeria" id="117" />
+      <edge source="Albania" target="Andorra" id="118" />
+      <edge source="Albania" target="Angola" id="119" />
+      <edge source="Albania" target="Antigua and Barbuda" id="120" />
+      <edge source="Albania" target="Argentina" id="121" />
+      <edge source="Albania" target="Armenia" id="122" />
+      <edge source="Albania" target="Australia" id="123" />
+      <edge source="Albania" target="Austria" id="124" />
+      <edge source="Albania" target="Azerbaijan" id="125" />
+      <edge source="Algeria" target="Afghanistan" id="126" />
+      <edge source="Algeria" target="Albania" id="127" />
+      <edge source="Algeria" target="Andorra" id="128" />
+      <edge source="Algeria" target="Angola" id="129" />
+      <edge source="Algeria" target="Antigua and Barbuda" id="130" />
+      <edge source="Algeria" target="Argentina" id="131" />
+      <edge source="Algeria" target="Armenia" id="132" />
+      <edge source="Algeria" target="Australia" id="133" />
+      <edge source="Algeria" target="Austria" id="134" />
+      <edge source="Algeria" target="Azerbaijan" id="135" />
+      <edge source="Andorra" target="Afghanistan" id="136" />
+      <edge source="Andorra" target="Albania" id="137" />
+      <edge source="Andorra" target="Algeria" id="138" />
+      <edge source="Andorra" target="Angola" id="139" />
+      <edge source="Andorra" target="Antigua and Barbuda" id="140" />
+      <edge source="Andorra" target="Argentina" id="141" />
+      <edge source="Andorra" target="Armenia" id="142" />
+      <edge source="Andorra" target="Australia" id="143" />
+      <edge source="Andorra" target="Austria" id="144" />
+      <edge source="Andorra" target="Azerbaijan" id="145" />
+      <edge source="Angola" target="Afghanistan" id="146" />
+      <edge source="Angola" target="Albania" id="147" />
+      <edge source="Angola" target="Algeria" id="148" />
+      <edge source="Angola" target="Andorra" id="149" />
+      <edge source="Angola" target="Antigua and Barbuda" id="150" />
+      <edge source="Angola" target="Argentina" id="151" />
+      <edge source="Angola" target="Armenia" id="152" />
+      <edge source="Angola" target="Australia" id="153" />
+      <edge source="Angola" target="Austria" id="154" />
+      <edge source="Angola" target="Azerbaijan" id="155" />
+      <edge source="Antigua and Barbuda" target="Afghanistan" id="156" />
+      <edge source="Antigua and Barbuda" target="Albania" id="157" />
+      <edge source="Antigua and Barbuda" target="Algeria" id="158" />
+      <edge source="Antigua and Barbuda" target="Andorra" id="159" />
+      <edge source="Antigua and Barbuda" target="Angola" id="160" />
+      <edge source="Antigua and Barbuda" target="Argentina" id="161" />
+      <edge source="Antigua and Barbuda" target="Armenia" id="162" />
+      <edge source="Antigua and Barbuda" target="Australia" id="163" />
+      <edge source="Antigua and Barbuda" target="Austria" id="164" />
+      <edge source="Antigua and Barbuda" target="Azerbaijan" id="165" />
+      <edge source="Argentina" target="Afghanistan" id="166" />
+      <edge source="Argentina" target="Albania" id="167" />
+      <edge source="Argentina" target="Algeria" id="168" />
+      <edge source="Argentina" target="Andorra" id="169" />
+      <edge source="Argentina" target="Angola" id="170" />
+      <edge source="Argentina" target="Antigua and Barbuda" id="171" />
+      <edge source="Argentina" target="Armenia" id="172" />
+      <edge source="Argentina" target="Australia" id="173" />
+      <edge source="Argentina" target="Austria" id="174" />
+      <edge source="Argentina" target="Azerbaijan" id="175" />
+      <edge source="Armenia" target="Afghanistan" id="176" />
+      <edge source="Armenia" target="Albania" id="177" />
+      <edge source="Armenia" target="Algeria" id="178" />
+      <edge source="Armenia" target="Andorra" id="179" />
+      <edge source="Armenia" target="Angola" id="180" />
+      <edge source="Armenia" target="Antigua and Barbuda" id="181" />
+      <edge source="Armenia" target="Argentina" id="182" />
+      <edge source="Armenia" target="Australia" id="183" />
+      <edge source="Armenia" target="Austria" id="184" />
+      <edge source="Armenia" target="Azerbaijan" id="185" />
+      <edge source="Australia" target="Afghanistan" id="186" />
+      <edge source="Australia" target="Albania" id="187" />
+      <edge source="Australia" target="Algeria" id="188" />
+      <edge source="Australia" target="Andorra" id="189" />
+      <edge source="Australia" target="Angola" id="190" />
+      <edge source="Australia" target="Antigua and Barbuda" id="191" />
+      <edge source="Australia" target="Argentina" id="192" />
+      <edge source="Australia" target="Armenia" id="193" />
+      <edge source="Australia" target="Austria" id="194" />
+      <edge source="Australia" target="Azerbaijan" id="195" />
+      <edge source="Austria" target="Afghanistan" id="196" />
+      <edge source="Austria" target="Albania" id="197" />
+      <edge source="Austria" target="Algeria" id="198" />
+      <edge source="Austria" target="Andorra" id="199" />
+      <edge source="Austria" target="Angola" id="200" />
+      <edge source="Austria" target="Antigua and Barbuda" id="201" />
+      <edge source="Austria" target="Argentina" id="202" />
+      <edge source="Austria" target="Armenia" id="203" />
+      <edge source="Austria" target="Australia" id="204" />
+      <edge source="Austria" target="Azerbaijan" id="205" />
+      <edge source="Azerbaijan" target="Namibia" id="206" />
+      <edge source="Azerbaijan" target="Nauru" id="207" />
+      <edge source="Azerbaijan" target="Nepal" id="208" />
+      <edge source="Azerbaijan" target="Netherlands" id="209" />
+      <edge source="Azerbaijan" target="New Zealand" id="210" />
+      <edge source="Azerbaijan" target="Nicaragua" id="211" />
+      <edge source="Azerbaijan" target="Niger" id="212" />
+      <edge source="Azerbaijan" target="Nigeria" id="213" />
+      <edge source="Azerbaijan" target="North Korea" id="214" />
+      <edge source="Azerbaijan" target="North Macedonia" id="215" />
+      <edge source="Azerbaijan" target="Norway" id="216" />
+      <edge source="Bahamas" target="Saint Kitts and Nevis" id="217" />
+      <edge source="Bahamas" target="Saint Lucia" id="218" />
+      <edge source="Bahamas" target="Saint Vincent and the Grenadines" id="219" />
+      <edge source="Bahamas" target="Samoa" id="220" />
+      <edge source="Bahamas" target="San Marino" id="221" />
+      <edge source="Bahamas" target="Sao Tome and Principe" id="222" />
+      <edge source="Bahamas" target="Saudi Arabia" id="223" />
+      <edge source="Bahamas" target="Senegal" id="224" />
+      <edge source="Bahamas" target="Serbia" id="225" />
+      <edge source="Bahamas" target="Seychelles" id="226" />
+      <edge source="Bahamas" target="Sierra Leone" id="227" />
+      <edge source="Bahamas" target="Singapore" id="228" />
+      <edge source="Bahamas" target="Slovakia" id="229" />
+      <edge source="Bahamas" target="Slovenia" id="230" />
+      <edge source="Bahamas" target="Solomon Islands" id="231" />
+      <edge source="Bahamas" target="Somalia" id="232" />
+      <edge source="Bahamas" target="South Africa" id="233" />
+      <edge source="Bahamas" target="South Sudan" id="234" />
+      <edge source="Bahamas" target="Spain" id="235" />
+      <edge source="Bahamas" target="Sri Lanka" id="236" />
+      <edge source="Bahamas" target="Sudan" id="237" />
+      <edge source="Bahamas" target="Suriname" id="238" />
+      <edge source="Bahamas" target="Sweden" id="239" />
+      <edge source="Bahamas" target="Switzerland" id="240" />
+      <edge source="Bahamas" target="Syria" id="241" />
+      <edge source="Saint Kitts and Nevis" target="Saint Lucia" id="242" />
+      <edge source="Saint Kitts and Nevis" target="Saint Vincent and the Grenadines" id="243" />
+      <edge source="Saint Kitts and Nevis" target="Samoa" id="244" />
+      <edge source="Saint Kitts and Nevis" target="San Marino" id="245" />
+      <edge source="Saint Kitts and Nevis" target="Sao Tome and Principe" id="246" />
+      <edge source="Saint Kitts and Nevis" target="Saudi Arabia" id="247" />
+      <edge source="Saint Kitts and Nevis" target="Senegal" id="248" />
+      <edge source="Saint Kitts and Nevis" target="Serbia" id="249" />
+      <edge source="Saint Kitts and Nevis" target="Seychelles" id="250" />
+      <edge source="Saint Kitts and Nevis" target="Sierra Leone" id="251" />
+      <edge source="Saint Kitts and Nevis" target="Singapore" id="252" />
+      <edge source="Saint Kitts and Nevis" target="Slovakia" id="253" />
+      <edge source="Saint Kitts and Nevis" target="Slovenia" id="254" />
+      <edge source="Saint Kitts and Nevis" target="Solomon Islands" id="255" />
+      <edge source="Saint Kitts and Nevis" target="Somalia" id="256" />
+      <edge source="Saint Kitts and Nevis" target="South Africa" id="257" />
+      <edge source="Saint Kitts and Nevis" target="South Sudan" id="258" />
+      <edge source="Saint Kitts and Nevis" target="Spain" id="259" />
+      <edge source="Saint Kitts and Nevis" target="Sri Lanka" id="260" />
+      <edge source="Saint Kitts and Nevis" target="Sudan" id="261" />
+      <edge source="Saint Kitts and Nevis" target="Suriname" id="262" />
+      <edge source="Saint Kitts and Nevis" target="Sweden" id="263" />
+      <edge source="Saint Kitts and Nevis" target="Switzerland" id="264" />
+      <edge source="Saint Kitts and Nevis" target="Syria" id="265" />
+      <edge source="Saint Lucia" target="Afghanistan" id="266" />
+      <edge source="Saint Lucia" target="Albania" id="267" />
+      <edge source="Saint Lucia" target="Algeria" id="268" />
+      <edge source="Saint Lucia" target="Andorra" id="269" />
+      <edge source="Saint Lucia" target="Angola" id="270" />
+      <edge source="Saint Lucia" target="Antigua and Barbuda" id="271" />
+      <edge source="Saint Lucia" target="Argentina" id="272" />
+      <edge source="Saint Lucia" target="Armenia" id="273" />
+      <edge source="Saint Lucia" target="Australia" id="274" />
+      <edge source="Saint Lucia" target="Austria" id="275" />
+      <edge source="Saint Lucia" target="Azerbaijan" id="276" />
+      <edge source="Saint Vincent and the Grenadines" target="Saint Kitts and Nevis" id="277" />
+      <edge source="Saint Vincent and the Grenadines" target="Saint Lucia" id="278" />
+      <edge source="Saint Vincent and the Grenadines" target="Samoa" id="279" />
+      <edge source="Saint Vincent and the Grenadines" target="San Marino" id="280" />
+      <edge source="Saint Vincent and the Grenadines" target="Sao Tome and Principe" id="281" />
+      <edge source="Saint Vincent and the Grenadines" target="Saudi Arabia" id="282" />
+      <edge source="Saint Vincent and the Grenadines" target="Senegal" id="283" />
+      <edge source="Saint Vincent and the Grenadines" target="Serbia" id="284" />
+      <edge source="Saint Vincent and the Grenadines" target="Seychelles" id="285" />
+      <edge source="Saint Vincent and the Grenadines" target="Sierra Leone" id="286" />
+      <edge source="Saint Vincent and the Grenadines" target="Singapore" id="287" />
+      <edge source="Saint Vincent and the Grenadines" target="Slovakia" id="288" />
+      <edge source="Saint Vincent and the Grenadines" target="Slovenia" id="289" />
+      <edge source="Saint Vincent and the Grenadines" target="Solomon Islands" id="290" />
+      <edge source="Saint Vincent and the Grenadines" target="Somalia" id="291" />
+      <edge source="Saint Vincent and the Grenadines" target="South Africa" id="292" />
+      <edge source="Saint Vincent and the Grenadines" target="South Sudan" id="293" />
+      <edge source="Saint Vincent and the Grenadines" target="Spain" id="294" />
+      <edge source="Saint Vincent and the Grenadines" target="Sri Lanka" id="295" />
+      <edge source="Saint Vincent and the Grenadines" target="Sudan" id="296" />
+      <edge source="Saint Vincent and the Grenadines" target="Suriname" id="297" />
+      <edge source="Saint Vincent and the Grenadines" target="Sweden" id="298" />
+      <edge source="Saint Vincent and the Grenadines" target="Switzerland" id="299" />
+      <edge source="Saint Vincent and the Grenadines" target="Syria" id="300" />
+      <edge source="Samoa" target="Afghanistan" id="301" />
+      <edge source="Samoa" target="Albania" id="302" />
+      <edge source="Samoa" target="Algeria" id="303" />
+      <edge source="Samoa" target="Andorra" id="304" />
+      <edge source="Samoa" target="Angola" id="305" />
+      <edge source="Samoa" target="Antigua and Barbuda" id="306" />
+      <edge source="Samoa" target="Argentina" id="307" />
+      <edge source="Samoa" target="Armenia" id="308" />
+      <edge source="Samoa" target="Australia" id="309" />
+      <edge source="Samoa" target="Austria" id="310" />
+      <edge source="Samoa" target="Azerbaijan" id="311" />
+      <edge source="San Marino" target="Oman" id="312" />
+      <edge source="Sao Tome and Principe" target="Ecuador" id="313" />
+      <edge source="Sao Tome and Principe" target="Egypt" id="314" />
+      <edge source="Sao Tome and Principe" target="El Salvador" id="315" />
+      <edge source="Sao Tome and Principe" target="Equatorial Guinea" id="316" />
+      <edge source="Sao Tome and Principe" target="Eritrea" id="317" />
+      <edge source="Sao Tome and Principe" target="Estonia" id="318" />
+      <edge source="Sao Tome and Principe" target="Eswatini" id="319" />
+      <edge source="Sao Tome and Principe" target="Ethiopia" id="320" />
+      <edge source="Saudi Arabia" target="Afghanistan" id="321" />
+      <edge source="Saudi Arabia" target="Albania" id="322" />
+      <edge source="Saudi Arabia" target="Algeria" id="323" />
+      <edge source="Saudi Arabia" target="Andorra" id="324" />
+      <edge source="Saudi Arabia" target="Angola" id="325" />
+      <edge source="Saudi Arabia" target="Antigua and Barbuda" id="326" />
+      <edge source="Saudi Arabia" target="Argentina" id="327" />
+      <edge source="Saudi Arabia" target="Armenia" id="328" />
+      <edge source="Saudi Arabia" target="Australia" id="329" />
+      <edge source="Saudi Arabia" target="Austria" id="330" />
+      <edge source="Saudi Arabia" target="Azerbaijan" id="331" />
+      <edge source="Senegal" target="Laos" id="332" />
+      <edge source="Senegal" target="Latvia" id="333" />
+      <edge source="Senegal" target="Lebanon" id="334" />
+      <edge source="Senegal" target="Lesotho" id="335" />
+      <edge source="Senegal" target="Liberia" id="336" />
+      <edge source="Senegal" target="Libya" id="337" />
+      <edge source="Senegal" target="Liechtenstein" id="338" />
+      <edge source="Senegal" target="Lithuania" id="339" />
+      <edge source="Senegal" target="Luxembourg" id="340" />
+      <edge source="Serbia" target="Afghanistan" id="341" />
+      <edge source="Serbia" target="Albania" id="342" />
+      <edge source="Serbia" target="Algeria" id="343" />
+      <edge source="Serbia" target="Andorra" id="344" />
+      <edge source="Serbia" target="Angola" id="345" />
+      <edge source="Serbia" target="Antigua and Barbuda" id="346" />
+      <edge source="Serbia" target="Argentina" id="347" />
+      <edge source="Serbia" target="Armenia" id="348" />
+      <edge source="Serbia" target="Australia" id="349" />
+      <edge source="Serbia" target="Austria" id="350" />
+      <edge source="Serbia" target="Azerbaijan" id="351" />
+      <edge source="Seychelles" target="Saint Kitts and Nevis" id="352" />
+      <edge source="Seychelles" target="Saint Lucia" id="353" />
+      <edge source="Seychelles" target="Saint Vincent and the Grenadines" id="354" />
+      <edge source="Seychelles" target="Samoa" id="355" />
+      <edge source="Seychelles" target="San Marino" id="356" />
+      <edge source="Seychelles" target="Sao Tome and Principe" id="357" />
+      <edge source="Seychelles" target="Saudi Arabia" id="358" />
+      <edge source="Seychelles" target="Senegal" id="359" />
+      <edge source="Seychelles" target="Serbia" id="360" />
+      <edge source="Seychelles" target="Sierra Leone" id="361" />
+      <edge source="Seychelles" target="Singapore" id="362" />
+      <edge source="Seychelles" target="Slovakia" id="363" />
+      <edge source="Seychelles" target="Slovenia" id="364" />
+      <edge source="Seychelles" target="Solomon Islands" id="365" />
+      <edge source="Seychelles" target="Somalia" id="366" />
+      <edge source="Seychelles" target="South Africa" id="367" />
+      <edge source="Seychelles" target="South Sudan" id="368" />
+      <edge source="Seychelles" target="Spain" id="369" />
+      <edge source="Seychelles" target="Sri Lanka" id="370" />
+      <edge source="Seychelles" target="Sudan" id="371" />
+      <edge source="Seychelles" target="Suriname" id="372" />
+      <edge source="Seychelles" target="Sweden" id="373" />
+      <edge source="Seychelles" target="Switzerland" id="374" />
+      <edge source="Seychelles" target="Syria" id="375" />
+      <edge source="Sierra Leone" target="Ecuador" id="376" />
+      <edge source="Sierra Leone" target="Egypt" id="377" />
+      <edge source="Sierra Leone" target="El Salvador" id="378" />
+      <edge source="Sierra Leone" target="Equatorial Guinea" id="379" />
+      <edge source="Sierra Leone" target="Eritrea" id="380" />
+      <edge source="Sierra Leone" target="Estonia" id="381" />
+      <edge source="Sierra Leone" target="Eswatini" id="382" />
+      <edge source="Sierra Leone" target="Ethiopia" id="383" />
+      <edge source="Singapore" target="Ecuador" id="384" />
+      <edge source="Singapore" target="Egypt" id="385" />
+      <edge source="Singapore" target="El Salvador" id="386" />
+      <edge source="Singapore" target="Equatorial Guinea" id="387" />
+      <edge source="Singapore" target="Eritrea" id="388" />
+      <edge source="Singapore" target="Estonia" id="389" />
+      <edge source="Singapore" target="Eswatini" id="390" />
+      <edge source="Singapore" target="Ethiopia" id="391" />
+      <edge source="Slovakia" target="Afghanistan" id="392" />
+      <edge source="Slovakia" target="Albania" id="393" />
+      <edge source="Slovakia" target="Algeria" id="394" />
+      <edge source="Slovakia" target="Andorra" id="395" />
+      <edge source="Slovakia" target="Angola" id="396" />
+      <edge source="Slovakia" target="Antigua and Barbuda" id="397" />
+      <edge source="Slovakia" target="Argentina" id="398" />
+      <edge source="Slovakia" target="Armenia" id="399" />
+      <edge source="Slovakia" target="Australia" id="400" />
+      <edge source="Slovakia" target="Austria" id="401" />
+      <edge source="Slovakia" target="Azerbaijan" id="402" />
+      <edge source="Slovenia" target="Afghanistan" id="403" />
+      <edge source="Slovenia" target="Albania" id="404" />
+      <edge source="Slovenia" target="Algeria" id="405" />
+      <edge source="Slovenia" target="Andorra" id="406" />
+      <edge source="Slovenia" target="Angola" id="407" />
+      <edge source="Slovenia" target="Antigua and Barbuda" id="408" />
+      <edge source="Slovenia" target="Argentina" id="409" />
+      <edge source="Slovenia" target="Armenia" id="410" />
+      <edge source="Slovenia" target="Australia" id="411" />
+      <edge source="Slovenia" target="Austria" id="412" />
+      <edge source="Slovenia" target="Azerbaijan" id="413" />
+      <edge source="Solomon Islands" target="Saint Kitts and Nevis" id="414" />
+      <edge source="Solomon Islands" target="Saint Lucia" id="415" />
+      <edge source="Solomon Islands" target="Saint Vincent and the Grenadines" id="416" />
+      <edge source="Solomon Islands" target="Samoa" id="417" />
+      <edge source="Solomon Islands" target="San Marino" id="418" />
+      <edge source="Solomon Islands" target="Sao Tome and Principe" id="419" />
+      <edge source="Solomon Islands" target="Saudi Arabia" id="420" />
+      <edge source="Solomon Islands" target="Senegal" id="421" />
+      <edge source="Solomon Islands" target="Serbia" id="422" />
+      <edge source="Solomon Islands" target="Seychelles" id="423" />
+      <edge source="Solomon Islands" target="Sierra Leone" id="424" />
+      <edge source="Solomon Islands" target="Singapore" id="425" />
+      <edge source="Solomon Islands" target="Slovakia" id="426" />
+      <edge source="Solomon Islands" target="Slovenia" id="427" />
+      <edge source="Solomon Islands" target="Somalia" id="428" />
+      <edge source="Solomon Islands" target="South Africa" id="429" />
+      <edge source="Solomon Islands" target="South Sudan" id="430" />
+      <edge source="Solomon Islands" target="Spain" id="431" />
+      <edge source="Solomon Islands" target="Sri Lanka" id="432" />
+      <edge source="Solomon Islands" target="Sudan" id="433" />
+      <edge source="Solomon Islands" target="Suriname" id="434" />
+      <edge source="Solomon Islands" target="Sweden" id="435" />
+      <edge source="Solomon Islands" target="Switzerland" id="436" />
+      <edge source="Solomon Islands" target="Syria" id="437" />
+      <edge source="Somalia" target="Afghanistan" id="438" />
+      <edge source="Somalia" target="Albania" id="439" />
+      <edge source="Somalia" target="Algeria" id="440" />
+      <edge source="Somalia" target="Andorra" id="441" />
+      <edge source="Somalia" target="Angola" id="442" />
+      <edge source="Somalia" target="Antigua and Barbuda" id="443" />
+      <edge source="Somalia" target="Argentina" id="444" />
+      <edge source="Somalia" target="Armenia" id="445" />
+      <edge source="Somalia" target="Australia" id="446" />
+      <edge source="Somalia" target="Austria" id="447" />
+      <edge source="Somalia" target="Azerbaijan" id="448" />
+      <edge source="South Africa" target="Afghanistan" id="449" />
+      <edge source="South Africa" target="Albania" id="450" />
+      <edge source="South Africa" target="Algeria" id="451" />
+      <edge source="South Africa" target="Andorra" id="452" />
+      <edge source="South Africa" target="Angola" id="453" />
+      <edge source="South Africa" target="Antigua and Barbuda" id="454" />
+      <edge source="South Africa" target="Argentina" id="455" />
+      <edge source="South Africa" target="Armenia" id="456" />
+      <edge source="South Africa" target="Australia" id="457" />
+      <edge source="South Africa" target="Austria" id="458" />
+      <edge source="South Africa" target="Azerbaijan" id="459" />
+      <edge source="South Sudan" target="Namibia" id="460" />
+      <edge source="South Sudan" target="Nauru" id="461" />
+      <edge source="South Sudan" target="Nepal" id="462" />
+      <edge source="South Sudan" target="Netherlands" id="463" />
+      <edge source="South Sudan" target="New Zealand" id="464" />
+      <edge source="South Sudan" target="Nicaragua" id="465" />
+      <edge source="South Sudan" target="Niger" id="466" />
+      <edge source="South Sudan" target="Nigeria" id="467" />
+      <edge source="South Sudan" target="North Korea" id="468" />
+      <edge source="South Sudan" target="North Macedonia" id="469" />
+      <edge source="South Sudan" target="Norway" id="470" />
+      <edge source="Spain" target="Namibia" id="471" />
+      <edge source="Spain" target="Nauru" id="472" />
+      <edge source="Spain" target="Nepal" id="473" />
+      <edge source="Spain" target="Netherlands" id="474" />
+      <edge source="Spain" target="New Zealand" id="475" />
+      <edge source="Spain" target="Nicaragua" id="476" />
+      <edge source="Spain" target="Niger" id="477" />
+      <edge source="Spain" target="Nigeria" id="478" />
+      <edge source="Spain" target="North Korea" id="479" />
+      <edge source="Spain" target="North Macedonia" id="480" />
+      <edge source="Spain" target="Norway" id="481" />
+      <edge source="Sri Lanka" target="Afghanistan" id="482" />
+      <edge source="Sri Lanka" target="Albania" id="483" />
+      <edge source="Sri Lanka" target="Algeria" id="484" />
+      <edge source="Sri Lanka" target="Andorra" id="485" />
+      <edge source="Sri Lanka" target="Angola" id="486" />
+      <edge source="Sri Lanka" target="Antigua and Barbuda" id="487" />
+      <edge source="Sri Lanka" target="Argentina" id="488" />
+      <edge source="Sri Lanka" target="Armenia" id="489" />
+      <edge source="Sri Lanka" target="Australia" id="490" />
+      <edge source="Sri Lanka" target="Austria" id="491" />
+      <edge source="Sri Lanka" target="Azerbaijan" id="492" />
+      <edge source="Sudan" target="Namibia" id="493" />
+      <edge source="Sudan" target="Nauru" id="494" />
+      <edge source="Sudan" target="Nepal" id="495" />
+      <edge source="Sudan" target="Netherlands" id="496" />
+      <edge source="Sudan" target="New Zealand" id="497" />
+      <edge source="Sudan" target="Nicaragua" id="498" />
+      <edge source="Sudan" target="Niger" id="499" />
+      <edge source="Sudan" target="Nigeria" id="500" />
+      <edge source="Sudan" target="North Korea" id="501" />
+      <edge source="Sudan" target="North Macedonia" id="502" />
+      <edge source="Sudan" target="Norway" id="503" />
+      <edge source="Suriname" target="Ecuador" id="504" />
+      <edge source="Suriname" target="Egypt" id="505" />
+      <edge source="Suriname" target="El Salvador" id="506" />
+      <edge source="Suriname" target="Equatorial Guinea" id="507" />
+      <edge source="Suriname" target="Eritrea" id="508" />
+      <edge source="Suriname" target="Estonia" id="509" />
+      <edge source="Suriname" target="Eswatini" id="510" />
+      <edge source="Suriname" target="Ethiopia" id="511" />
+      <edge source="Sweden" target="Namibia" id="512" />
+      <edge source="Sweden" target="Nauru" id="513" />
+      <edge source="Sweden" target="Nepal" id="514" />
+      <edge source="Sweden" target="Netherlands" id="515" />
+      <edge source="Sweden" target="New Zealand" id="516" />
+      <edge source="Sweden" target="Nicaragua" id="517" />
+      <edge source="Sweden" target="Niger" id="518" />
+      <edge source="Sweden" target="Nigeria" id="519" />
+      <edge source="Sweden" target="North Korea" id="520" />
+      <edge source="Sweden" target="North Macedonia" id="521" />
+      <edge source="Sweden" target="Norway" id="522" />
+      <edge source="Switzerland" target="Democratic Republic of the Congo" id="523" />
+      <edge source="Switzerland" target="Denmark" id="524" />
+      <edge source="Switzerland" target="Djibouti" id="525" />
+      <edge source="Switzerland" target="Dominica" id="526" />
+      <edge source="Switzerland" target="Dominican Republic" id="527" />
+      <edge source="Syria" target="Afghanistan" id="528" />
+      <edge source="Syria" target="Albania" id="529" />
+      <edge source="Syria" target="Algeria" id="530" />
+      <edge source="Syria" target="Andorra" id="531" />
+      <edge source="Syria" target="Angola" id="532" />
+      <edge source="Syria" target="Antigua and Barbuda" id="533" />
+      <edge source="Syria" target="Argentina" id="534" />
+      <edge source="Syria" target="Armenia" id="535" />
+      <edge source="Syria" target="Australia" id="536" />
+      <edge source="Syria" target="Austria" id="537" />
+      <edge source="Syria" target="Azerbaijan" id="538" />
+      <edge source="Bahrain" target="Namibia" id="539" />
+      <edge source="Bahrain" target="Nauru" id="540" />
+      <edge source="Bahrain" target="Nepal" id="541" />
+      <edge source="Bahrain" target="Netherlands" id="542" />
+      <edge source="Bahrain" target="New Zealand" id="543" />
+      <edge source="Bahrain" target="Nicaragua" id="544" />
+      <edge source="Bahrain" target="Niger" id="545" />
+      <edge source="Bahrain" target="Nigeria" id="546" />
+      <edge source="Bahrain" target="North Korea" id="547" />
+      <edge source="Bahrain" target="North Macedonia" id="548" />
+      <edge source="Bahrain" target="Norway" id="549" />
+      <edge source="Bangladesh" target="Haiti" id="550" />
+      <edge source="Bangladesh" target="Honduras" id="551" />
+      <edge source="Bangladesh" target="Hungary" id="552" />
+      <edge source="Haiti" target="Iceland" id="553" />
+      <edge source="Haiti" target="India" id="554" />
+      <edge source="Haiti" target="Indonesia" id="555" />
+      <edge source="Haiti" target="Iran" id="556" />
+      <edge source="Haiti" target="Iraq" id="557" />
+      <edge source="Haiti" target="Ireland" id="558" />
+      <edge source="Haiti" target="Israel" id="559" />
+      <edge source="Haiti" target="Italy" id="560" />
+      <edge source="Honduras" target="Saint Kitts and Nevis" id="561" />
+      <edge source="Honduras" target="Saint Lucia" id="562" />
+      <edge source="Honduras" target="Saint Vincent and the Grenadines" id="563" />
+      <edge source="Honduras" target="Samoa" id="564" />
+      <edge source="Honduras" target="San Marino" id="565" />
+      <edge source="Honduras" target="Sao Tome and Principe" id="566" />
+      <edge source="Honduras" target="Saudi Arabia" id="567" />
+      <edge source="Honduras" target="Senegal" id="568" />
+      <edge source="Honduras" target="Serbia" id="569" />
+      <edge source="Honduras" target="Seychelles" id="570" />
+      <edge source="Honduras" target="Sierra Leone" id="571" />
+      <edge source="Honduras" target="Singapore" id="572" />
+      <edge source="Honduras" target="Slovakia" id="573" />
+      <edge source="Honduras" target="Slovenia" id="574" />
+      <edge source="Honduras" target="Solomon Islands" id="575" />
+      <edge source="Honduras" target="Somalia" id="576" />
+      <edge source="Honduras" target="South Africa" id="577" />
+      <edge source="Honduras" target="South Sudan" id="578" />
+      <edge source="Honduras" target="Spain" id="579" />
+      <edge source="Honduras" target="Sri Lanka" id="580" />
+      <edge source="Honduras" target="Sudan" id="581" />
+      <edge source="Honduras" target="Suriname" id="582" />
+      <edge source="Honduras" target="Sweden" id="583" />
+      <edge source="Honduras" target="Switzerland" id="584" />
+      <edge source="Honduras" target="Syria" id="585" />
+      <edge source="Hungary" target="Yemen" id="586" />
+      <edge source="Barbados" target="Saint Kitts and Nevis" id="587" />
+      <edge source="Barbados" target="Saint Lucia" id="588" />
+      <edge source="Barbados" target="Saint Vincent and the Grenadines" id="589" />
+      <edge source="Barbados" target="Samoa" id="590" />
+      <edge source="Barbados" target="San Marino" id="591" />
+      <edge source="Barbados" target="Sao Tome and Principe" id="592" />
+      <edge source="Barbados" target="Saudi Arabia" id="593" />
+      <edge source="Barbados" target="Senegal" id="594" />
+      <edge source="Barbados" target="Serbia" id="595" />
+      <edge source="Barbados" target="Seychelles" id="596" />
+      <edge source="Barbados" target="Sierra Leone" id="597" />
+      <edge source="Barbados" target="Singapore" id="598" />
+      <edge source="Barbados" target="Slovakia" id="599" />
+      <edge source="Barbados" target="Slovenia" id="600" />
+      <edge source="Barbados" target="Solomon Islands" id="601" />
+      <edge source="Barbados" target="Somalia" id="602" />
+      <edge source="Barbados" target="South Africa" id="603" />
+      <edge source="Barbados" target="South Sudan" id="604" />
+      <edge source="Barbados" target="Spain" id="605" />
+      <edge source="Barbados" target="Sri Lanka" id="606" />
+      <edge source="Barbados" target="Sudan" id="607" />
+      <edge source="Barbados" target="Suriname" id="608" />
+      <edge source="Barbados" target="Sweden" id="609" />
+      <edge source="Barbados" target="Switzerland" id="610" />
+      <edge source="Barbados" target="Syria" id="611" />
+      <edge source="Belarus" target="Saint Kitts and Nevis" id="612" />
+      <edge source="Belarus" target="Saint Lucia" id="613" />
+      <edge source="Belarus" target="Saint Vincent and the Grenadines" id="614" />
+      <edge source="Belarus" target="Samoa" id="615" />
+      <edge source="Belarus" target="San Marino" id="616" />
+      <edge source="Belarus" target="Sao Tome and Principe" id="617" />
+      <edge source="Belarus" target="Saudi Arabia" id="618" />
+      <edge source="Belarus" target="Senegal" id="619" />
+      <edge source="Belarus" target="Serbia" id="620" />
+      <edge source="Belarus" target="Seychelles" id="621" />
+      <edge source="Belarus" target="Sierra Leone" id="622" />
+      <edge source="Belarus" target="Singapore" id="623" />
+      <edge source="Belarus" target="Slovakia" id="624" />
+      <edge source="Belarus" target="Slovenia" id="625" />
+      <edge source="Belarus" target="Solomon Islands" id="626" />
+      <edge source="Belarus" target="Somalia" id="627" />
+      <edge source="Belarus" target="South Africa" id="628" />
+      <edge source="Belarus" target="South Sudan" id="629" />
+      <edge source="Belarus" target="Spain" id="630" />
+      <edge source="Belarus" target="Sri Lanka" id="631" />
+      <edge source="Belarus" target="Sudan" id="632" />
+      <edge source="Belarus" target="Suriname" id="633" />
+      <edge source="Belarus" target="Sweden" id="634" />
+      <edge source="Belarus" target="Switzerland" id="635" />
+      <edge source="Belarus" target="Syria" id="636" />
+      <edge source="Belgium" target="Madagascar" id="637" />
+      <edge source="Belgium" target="Malawi" id="638" />
+      <edge source="Belgium" target="Malaysia" id="639" />
+      <edge source="Belgium" target="Maldives" id="640" />
+      <edge source="Belgium" target="Mali" id="641" />
+      <edge source="Belgium" target="Malta" id="642" />
+      <edge source="Belgium" target="Marshall Islands" id="643" />
+      <edge source="Belgium" target="Mauritania" id="644" />
+      <edge source="Belgium" target="Mauritius" id="645" />
+      <edge source="Belgium" target="Mexico" id="646" />
+      <edge source="Belgium" target="Micronesia" id="647" />
+      <edge source="Belgium" target="Moldova" id="648" />
+      <edge source="Belgium" target="Monaco" id="649" />
+      <edge source="Belgium" target="Mongolia" id="650" />
+      <edge source="Belgium" target="Montenegro" id="651" />
+      <edge source="Belgium" target="Morocco" id="652" />
+      <edge source="Belgium" target="Mozambique" id="653" />
+      <edge source="Belgium" target="Myanmar" id="654" />
+      <edge source="Madagascar" target="Romania" id="655" />
+      <edge source="Madagascar" target="Russia" id="656" />
+      <edge source="Madagascar" target="Rwanda" id="657" />
+      <edge source="Malawi" target="Iceland" id="658" />
+      <edge source="Malawi" target="India" id="659" />
+      <edge source="Malawi" target="Indonesia" id="660" />
+      <edge source="Malawi" target="Iran" id="661" />
+      <edge source="Malawi" target="Iraq" id="662" />
+      <edge source="Malawi" target="Ireland" id="663" />
+      <edge source="Malawi" target="Israel" id="664" />
+      <edge source="Malawi" target="Italy" id="665" />
+      <edge source="Malaysia" target="Afghanistan" id="666" />
+      <edge source="Malaysia" target="Albania" id="667" />
+      <edge source="Malaysia" target="Algeria" id="668" />
+      <edge source="Malaysia" target="Andorra" id="669" />
+      <edge source="Malaysia" target="Angola" id="670" />
+      <edge source="Malaysia" target="Antigua and Barbuda" id="671" />
+      <edge source="Malaysia" target="Argentina" id="672" />
+      <edge source="Malaysia" target="Armenia" id="673" />
+      <edge source="Malaysia" target="Australia" id="674" />
+      <edge source="Malaysia" target="Austria" id="675" />
+      <edge source="Malaysia" target="Azerbaijan" id="676" />
+      <edge source="Maldives" target="Saint Kitts and Nevis" id="677" />
+      <edge source="Maldives" target="Saint Lucia" id="678" />
+      <edge source="Maldives" target="Saint Vincent and the Grenadines" id="679" />
+      <edge source="Maldives" target="Samoa" id="680" />
+      <edge source="Maldives" target="San Marino" id="681" />
+      <edge source="Maldives" target="Sao Tome and Principe" id="682" />
+      <edge source="Maldives" target="Saudi Arabia" id="683" />
+      <edge source="Maldives" target="Senegal" id="684" />
+      <edge source="Maldives" target="Serbia" id="685" />
+      <edge source="Maldives" target="Seychelles" id="686" />
+      <edge source="Maldives" target="Sierra Leone" id="687" />
+      <edge source="Maldives" target="Singapore" id="688" />
+      <edge source="Maldives" target="Slovakia" id="689" />
+      <edge source="Maldives" target="Slovenia" id="690" />
+      <edge source="Maldives" target="Solomon Islands" id="691" />
+      <edge source="Maldives" target="Somalia" id="692" />
+      <edge source="Maldives" target="South Africa" id="693" />
+      <edge source="Maldives" target="South Sudan" id="694" />
+      <edge source="Maldives" target="Spain" id="695" />
+      <edge source="Maldives" target="Sri Lanka" id="696" />
+      <edge source="Maldives" target="Sudan" id="697" />
+      <edge source="Maldives" target="Suriname" id="698" />
+      <edge source="Maldives" target="Sweden" id="699" />
+      <edge source="Maldives" target="Switzerland" id="700" />
+      <edge source="Maldives" target="Syria" id="701" />
+      <edge source="Mali" target="Iceland" id="702" />
+      <edge source="Mali" target="India" id="703" />
+      <edge source="Mali" target="Indonesia" id="704" />
+      <edge source="Mali" target="Iran" id="705" />
+      <edge source="Mali" target="Iraq" id="706" />
+      <edge source="Mali" target="Ireland" id="707" />
+      <edge source="Mali" target="Israel" id="708" />
+      <edge source="Mali" target="Italy" id="709" />
+      <edge source="Malta" target="Afghanistan" id="710" />
+      <edge source="Malta" target="Albania" id="711" />
+      <edge source="Malta" target="Algeria" id="712" />
+      <edge source="Malta" target="Andorra" id="713" />
+      <edge source="Malta" target="Angola" id="714" />
+      <edge source="Malta" target="Antigua and Barbuda" id="715" />
+      <edge source="Malta" target="Argentina" id="716" />
+      <edge source="Malta" target="Armenia" id="717" />
+      <edge source="Malta" target="Australia" id="718" />
+      <edge source="Malta" target="Austria" id="719" />
+      <edge source="Malta" target="Azerbaijan" id="720" />
+      <edge source="Marshall Islands" target="Saint Kitts and Nevis" id="721" />
+      <edge source="Marshall Islands" target="Saint Lucia" id="722" />
+      <edge source="Marshall Islands" target="Saint Vincent and the Grenadines" id="723" />
+      <edge source="Marshall Islands" target="Samoa" id="724" />
+      <edge source="Marshall Islands" target="San Marino" id="725" />
+      <edge source="Marshall Islands" target="Sao Tome and Principe" id="726" />
+      <edge source="Marshall Islands" target="Saudi Arabia" id="727" />
+      <edge source="Marshall Islands" target="Senegal" id="728" />
+      <edge source="Marshall Islands" target="Serbia" id="729" />
+      <edge source="Marshall Islands" target="Seychelles" id="730" />
+      <edge source="Marshall Islands" target="Sierra Leone" id="731" />
+      <edge source="Marshall Islands" target="Singapore" id="732" />
+      <edge source="Marshall Islands" target="Slovakia" id="733" />
+      <edge source="Marshall Islands" target="Slovenia" id="734" />
+      <edge source="Marshall Islands" target="Solomon Islands" id="735" />
+      <edge source="Marshall Islands" target="Somalia" id="736" />
+      <edge source="Marshall Islands" target="South Africa" id="737" />
+      <edge source="Marshall Islands" target="South Sudan" id="738" />
+      <edge source="Marshall Islands" target="Spain" id="739" />
+      <edge source="Marshall Islands" target="Sri Lanka" id="740" />
+      <edge source="Marshall Islands" target="Sudan" id="741" />
+      <edge source="Marshall Islands" target="Suriname" id="742" />
+      <edge source="Marshall Islands" target="Sweden" id="743" />
+      <edge source="Marshall Islands" target="Switzerland" id="744" />
+      <edge source="Marshall Islands" target="Syria" id="745" />
+      <edge source="Mauritania" target="Afghanistan" id="746" />
+      <edge source="Mauritania" target="Albania" id="747" />
+      <edge source="Mauritania" target="Algeria" id="748" />
+      <edge source="Mauritania" target="Andorra" id="749" />
+      <edge source="Mauritania" target="Angola" id="750" />
+      <edge source="Mauritania" target="Antigua and Barbuda" id="751" />
+      <edge source="Mauritania" target="Argentina" id="752" />
+      <edge source="Mauritania" target="Armenia" id="753" />
+      <edge source="Mauritania" target="Australia" id="754" />
+      <edge source="Mauritania" target="Austria" id="755" />
+      <edge source="Mauritania" target="Azerbaijan" id="756" />
+      <edge source="Mauritius" target="Saint Kitts and Nevis" id="757" />
+      <edge source="Mauritius" target="Saint Lucia" id="758" />
+      <edge source="Mauritius" target="Saint Vincent and the Grenadines" id="759" />
+      <edge source="Mauritius" target="Samoa" id="760" />
+      <edge source="Mauritius" target="San Marino" id="761" />
+      <edge source="Mauritius" target="Sao Tome and Principe" id="762" />
+      <edge source="Mauritius" target="Saudi Arabia" id="763" />
+      <edge source="Mauritius" target="Senegal" id="764" />
+      <edge source="Mauritius" target="Serbia" id="765" />
+      <edge source="Mauritius" target="Seychelles" id="766" />
+      <edge source="Mauritius" target="Sierra Leone" id="767" />
+      <edge source="Mauritius" target="Singapore" id="768" />
+      <edge source="Mauritius" target="Slovakia" id="769" />
+      <edge source="Mauritius" target="Slovenia" id="770" />
+      <edge source="Mauritius" target="Solomon Islands" id="771" />
+      <edge source="Mauritius" target="Somalia" id="772" />
+      <edge source="Mauritius" target="South Africa" id="773" />
+      <edge source="Mauritius" target="South Sudan" id="774" />
+      <edge source="Mauritius" target="Spain" id="775" />
+      <edge source="Mauritius" target="Sri Lanka" id="776" />
+      <edge source="Mauritius" target="Sudan" id="777" />
+      <edge source="Mauritius" target="Suriname" id="778" />
+      <edge source="Mauritius" target="Sweden" id="779" />
+      <edge source="Mauritius" target="Switzerland" id="780" />
+      <edge source="Mauritius" target="Syria" id="781" />
+      <edge source="Mexico" target="Oman" id="782" />
+      <edge source="Micronesia" target="Afghanistan" id="783" />
+      <edge source="Micronesia" target="Albania" id="784" />
+      <edge source="Micronesia" target="Algeria" id="785" />
+      <edge source="Micronesia" target="Andorra" id="786" />
+      <edge source="Micronesia" target="Angola" id="787" />
+      <edge source="Micronesia" target="Antigua and Barbuda" id="788" />
+      <edge source="Micronesia" target="Argentina" id="789" />
+      <edge source="Micronesia" target="Armenia" id="790" />
+      <edge source="Micronesia" target="Australia" id="791" />
+      <edge source="Micronesia" target="Austria" id="792" />
+      <edge source="Micronesia" target="Azerbaijan" id="793" />
+      <edge source="Moldova" target="Afghanistan" id="794" />
+      <edge source="Moldova" target="Albania" id="795" />
+      <edge source="Moldova" target="Algeria" id="796" />
+      <edge source="Moldova" target="Andorra" id="797" />
+      <edge source="Moldova" target="Angola" id="798" />
+      <edge source="Moldova" target="Antigua and Barbuda" id="799" />
+      <edge source="Moldova" target="Argentina" id="800" />
+      <edge source="Moldova" target="Armenia" id="801" />
+      <edge source="Moldova" target="Australia" id="802" />
+      <edge source="Moldova" target="Austria" id="803" />
+      <edge source="Moldova" target="Azerbaijan" id="804" />
+      <edge source="Monaco" target="Oman" id="805" />
+      <edge source="Mongolia" target="Afghanistan" id="806" />
+      <edge source="Mongolia" target="Albania" id="807" />
+      <edge source="Mongolia" target="Algeria" id="808" />
+      <edge source="Mongolia" target="Andorra" id="809" />
+      <edge source="Mongolia" target="Angola" id="810" />
+      <edge source="Mongolia" target="Antigua and Barbuda" id="811" />
+      <edge source="Mongolia" target="Argentina" id="812" />
+      <edge source="Mongolia" target="Armenia" id="813" />
+      <edge source="Mongolia" target="Australia" id="814" />
+      <edge source="Mongolia" target="Austria" id="815" />
+      <edge source="Mongolia" target="Azerbaijan" id="816" />
+      <edge source="Montenegro" target="Oman" id="817" />
+      <edge source="Morocco" target="Oman" id="818" />
+      <edge source="Mozambique" target="Ecuador" id="819" />
+      <edge source="Mozambique" target="Egypt" id="820" />
+      <edge source="Mozambique" target="El Salvador" id="821" />
+      <edge source="Mozambique" target="Equatorial Guinea" id="822" />
+      <edge source="Mozambique" target="Eritrea" id="823" />
+      <edge source="Mozambique" target="Estonia" id="824" />
+      <edge source="Mozambique" target="Eswatini" id="825" />
+      <edge source="Mozambique" target="Ethiopia" id="826" />
+      <edge source="Myanmar" target="Romania" id="827" />
+      <edge source="Myanmar" target="Russia" id="828" />
+      <edge source="Myanmar" target="Rwanda" id="829" />
+      <edge source="Belize" target="Ecuador" id="830" />
+      <edge source="Belize" target="Egypt" id="831" />
+      <edge source="Belize" target="El Salvador" id="832" />
+      <edge source="Belize" target="Equatorial Guinea" id="833" />
+      <edge source="Belize" target="Eritrea" id="834" />
+      <edge source="Belize" target="Estonia" id="835" />
+      <edge source="Belize" target="Eswatini" id="836" />
+      <edge source="Belize" target="Ethiopia" id="837" />
+      <edge source="Ecuador" target="Romania" id="838" />
+      <edge source="Ecuador" target="Russia" id="839" />
+      <edge source="Ecuador" target="Rwanda" id="840" />
+      <edge source="Egypt" target="Taiwan" id="841" />
+      <edge source="Egypt" target="Tajikistan" id="842" />
+      <edge source="Egypt" target="Tanzania" id="843" />
+      <edge source="Egypt" target="Thailand" id="844" />
+      <edge source="Egypt" target="Timor-Leste" id="845" />
+      <edge source="Egypt" target="Togo" id="846" />
+      <edge source="Egypt" target="Tonga" id="847" />
+      <edge source="Egypt" target="Trinidad and Tobago" id="848" />
+      <edge source="Egypt" target="Tunisia" id="849" />
+      <edge source="Egypt" target="Turkey" id="850" />
+      <edge source="Egypt" target="Turkmenistan" id="851" />
+      <edge source="Egypt" target="Tuvalu" id="852" />
+      <edge source="El Salvador" target="Romania" id="853" />
+      <edge source="El Salvador" target="Russia" id="854" />
+      <edge source="El Salvador" target="Rwanda" id="855" />
+      <edge source="Equatorial Guinea" target="Afghanistan" id="856" />
+      <edge source="Equatorial Guinea" target="Albania" id="857" />
+      <edge source="Equatorial Guinea" target="Algeria" id="858" />
+      <edge source="Equatorial Guinea" target="Andorra" id="859" />
+      <edge source="Equatorial Guinea" target="Angola" id="860" />
+      <edge source="Equatorial Guinea" target="Antigua and Barbuda" id="861" />
+      <edge source="Equatorial Guinea" target="Argentina" id="862" />
+      <edge source="Equatorial Guinea" target="Armenia" id="863" />
+      <edge source="Equatorial Guinea" target="Australia" id="864" />
+      <edge source="Equatorial Guinea" target="Austria" id="865" />
+      <edge source="Equatorial Guinea" target="Azerbaijan" id="866" />
+      <edge source="Eritrea" target="Afghanistan" id="867" />
+      <edge source="Eritrea" target="Albania" id="868" />
+      <edge source="Eritrea" target="Algeria" id="869" />
+      <edge source="Eritrea" target="Andorra" id="870" />
+      <edge source="Eritrea" target="Angola" id="871" />
+      <edge source="Eritrea" target="Antigua and Barbuda" id="872" />
+      <edge source="Eritrea" target="Argentina" id="873" />
+      <edge source="Eritrea" target="Armenia" id="874" />
+      <edge source="Eritrea" target="Australia" id="875" />
+      <edge source="Eritrea" target="Austria" id="876" />
+      <edge source="Eritrea" target="Azerbaijan" id="877" />
+      <edge source="Estonia" target="Afghanistan" id="878" />
+      <edge source="Estonia" target="Albania" id="879" />
+      <edge source="Estonia" target="Algeria" id="880" />
+      <edge source="Estonia" target="Andorra" id="881" />
+      <edge source="Estonia" target="Angola" id="882" />
+      <edge source="Estonia" target="Antigua and Barbuda" id="883" />
+      <edge source="Estonia" target="Argentina" id="884" />
+      <edge source="Estonia" target="Armenia" id="885" />
+      <edge source="Estonia" target="Australia" id="886" />
+      <edge source="Estonia" target="Austria" id="887" />
+      <edge source="Estonia" target="Azerbaijan" id="888" />
+      <edge source="Eswatini" target="Iceland" id="889" />
+      <edge source="Eswatini" target="India" id="890" />
+      <edge source="Eswatini" target="Indonesia" id="891" />
+      <edge source="Eswatini" target="Iran" id="892" />
+      <edge source="Eswatini" target="Iraq" id="893" />
+      <edge source="Eswatini" target="Ireland" id="894" />
+      <edge source="Eswatini" target="Israel" id="895" />
+      <edge source="Eswatini" target="Italy" id="896" />
+      <edge source="Ethiopia" target="Afghanistan" id="897" />
+      <edge source="Ethiopia" target="Albania" id="898" />
+      <edge source="Ethiopia" target="Algeria" id="899" />
+      <edge source="Ethiopia" target="Andorra" id="900" />
+      <edge source="Ethiopia" target="Angola" id="901" />
+      <edge source="Ethiopia" target="Antigua and Barbuda" id="902" />
+      <edge source="Ethiopia" target="Argentina" id="903" />
+      <edge source="Ethiopia" target="Armenia" id="904" />
+      <edge source="Ethiopia" target="Australia" id="905" />
+      <edge source="Ethiopia" target="Austria" id="906" />
+      <edge source="Ethiopia" target="Azerbaijan" id="907" />
+      <edge source="Benin" target="Namibia" id="908" />
+      <edge source="Benin" target="Nauru" id="909" />
+      <edge source="Benin" target="Nepal" id="910" />
+      <edge source="Benin" target="Netherlands" id="911" />
+      <edge source="Benin" target="New Zealand" id="912" />
+      <edge source="Benin" target="Nicaragua" id="913" />
+      <edge source="Benin" target="Niger" id="914" />
+      <edge source="Benin" target="Nigeria" id="915" />
+      <edge source="Benin" target="North Korea" id="916" />
+      <edge source="Benin" target="North Macedonia" id="917" />
+      <edge source="Benin" target="Norway" id="918" />
+      <edge source="Bhutan" target="Namibia" id="919" />
+      <edge source="Bhutan" target="Nauru" id="920" />
+      <edge source="Bhutan" target="Nepal" id="921" />
+      <edge source="Bhutan" target="Netherlands" id="922" />
+      <edge source="Bhutan" target="New Zealand" id="923" />
+      <edge source="Bhutan" target="Nicaragua" id="924" />
+      <edge source="Bhutan" target="Niger" id="925" />
+      <edge source="Bhutan" target="Nigeria" id="926" />
+      <edge source="Bhutan" target="North Korea" id="927" />
+      <edge source="Bhutan" target="North Macedonia" id="928" />
+      <edge source="Bhutan" target="Norway" id="929" />
+      <edge source="Bolivia" target="Afghanistan" id="930" />
+      <edge source="Bolivia" target="Albania" id="931" />
+      <edge source="Bolivia" target="Algeria" id="932" />
+      <edge source="Bolivia" target="Andorra" id="933" />
+      <edge source="Bolivia" target="Angola" id="934" />
+      <edge source="Bolivia" target="Antigua and Barbuda" id="935" />
+      <edge source="Bolivia" target="Argentina" id="936" />
+      <edge source="Bolivia" target="Armenia" id="937" />
+      <edge source="Bolivia" target="Australia" id="938" />
+      <edge source="Bolivia" target="Austria" id="939" />
+      <edge source="Bolivia" target="Azerbaijan" id="940" />
+      <edge source="Bosnia and Herzegovina" target="Afghanistan" id="941" />
+      <edge source="Bosnia and Herzegovina" target="Albania" id="942" />
+      <edge source="Bosnia and Herzegovina" target="Algeria" id="943" />
+      <edge source="Bosnia and Herzegovina" target="Andorra" id="944" />
+      <edge source="Bosnia and Herzegovina" target="Angola" id="945" />
+      <edge source="Bosnia and Herzegovina" target="Antigua and Barbuda" id="946" />
+      <edge source="Bosnia and Herzegovina" target="Argentina" id="947" />
+      <edge source="Bosnia and Herzegovina" target="Armenia" id="948" />
+      <edge source="Bosnia and Herzegovina" target="Australia" id="949" />
+      <edge source="Bosnia and Herzegovina" target="Austria" id="950" />
+      <edge source="Bosnia and Herzegovina" target="Azerbaijan" id="951" />
+      <edge source="Botswana" target="Afghanistan" id="952" />
+      <edge source="Botswana" target="Albania" id="953" />
+      <edge source="Botswana" target="Algeria" id="954" />
+      <edge source="Botswana" target="Andorra" id="955" />
+      <edge source="Botswana" target="Angola" id="956" />
+      <edge source="Botswana" target="Antigua and Barbuda" id="957" />
+      <edge source="Botswana" target="Argentina" id="958" />
+      <edge source="Botswana" target="Armenia" id="959" />
+      <edge source="Botswana" target="Australia" id="960" />
+      <edge source="Botswana" target="Austria" id="961" />
+      <edge source="Botswana" target="Azerbaijan" id="962" />
+      <edge source="Brazil" target="Laos" id="963" />
+      <edge source="Brazil" target="Latvia" id="964" />
+      <edge source="Brazil" target="Lebanon" id="965" />
+      <edge source="Brazil" target="Lesotho" id="966" />
+      <edge source="Brazil" target="Liberia" id="967" />
+      <edge source="Brazil" target="Libya" id="968" />
+      <edge source="Brazil" target="Liechtenstein" id="969" />
+      <edge source="Brazil" target="Lithuania" id="970" />
+      <edge source="Brazil" target="Luxembourg" id="971" />
+      <edge source="Laos" target="Saint Kitts and Nevis" id="972" />
+      <edge source="Laos" target="Saint Lucia" id="973" />
+      <edge source="Laos" target="Saint Vincent and the Grenadines" id="974" />
+      <edge source="Laos" target="Samoa" id="975" />
+      <edge source="Laos" target="San Marino" id="976" />
+      <edge source="Laos" target="Sao Tome and Principe" id="977" />
+      <edge source="Laos" target="Saudi Arabia" id="978" />
+      <edge source="Laos" target="Senegal" id="979" />
+      <edge source="Laos" target="Serbia" id="980" />
+      <edge source="Laos" target="Seychelles" id="981" />
+      <edge source="Laos" target="Sierra Leone" id="982" />
+      <edge source="Laos" target="Singapore" id="983" />
+      <edge source="Laos" target="Slovakia" id="984" />
+      <edge source="Laos" target="Slovenia" id="985" />
+      <edge source="Laos" target="Solomon Islands" id="986" />
+      <edge source="Laos" target="Somalia" id="987" />
+      <edge source="Laos" target="South Africa" id="988" />
+      <edge source="Laos" target="South Sudan" id="989" />
+      <edge source="Laos" target="Spain" id="990" />
+      <edge source="Laos" target="Sri Lanka" id="991" />
+      <edge source="Laos" target="Sudan" id="992" />
+      <edge source="Laos" target="Suriname" id="993" />
+      <edge source="Laos" target="Sweden" id="994" />
+      <edge source="Laos" target="Switzerland" id="995" />
+      <edge source="Laos" target="Syria" id="996" />
+      <edge source="Latvia" target="Afghanistan" id="997" />
+      <edge source="Latvia" target="Albania" id="998" />
+      <edge source="Latvia" target="Algeria" id="999" />
+      <edge source="Latvia" target="Andorra" id="1000" />
+      <edge source="Latvia" target="Angola" id="1001" />
+      <edge source="Latvia" target="Antigua and Barbuda" id="1002" />
+      <edge source="Latvia" target="Argentina" id="1003" />
+      <edge source="Latvia" target="Armenia" id="1004" />
+      <edge source="Latvia" target="Australia" id="1005" />
+      <edge source="Latvia" target="Austria" id="1006" />
+      <edge source="Latvia" target="Azerbaijan" id="1007" />
+      <edge source="Lebanon" target="Namibia" id="1008" />
+      <edge source="Lebanon" target="Nauru" id="1009" />
+      <edge source="Lebanon" target="Nepal" id="1010" />
+      <edge source="Lebanon" target="Netherlands" id="1011" />
+      <edge source="Lebanon" target="New Zealand" id="1012" />
+      <edge source="Lebanon" target="Nicaragua" id="1013" />
+      <edge source="Lebanon" target="Niger" id="1014" />
+      <edge source="Lebanon" target="Nigeria" id="1015" />
+      <edge source="Lebanon" target="North Korea" id="1016" />
+      <edge source="Lebanon" target="North Macedonia" id="1017" />
+      <edge source="Lebanon" target="Norway" id="1018" />
+      <edge source="Lesotho" target="Oman" id="1019" />
+      <edge source="Liberia" target="Afghanistan" id="1020" />
+      <edge source="Liberia" target="Albania" id="1021" />
+      <edge source="Liberia" target="Algeria" id="1022" />
+      <edge source="Liberia" target="Andorra" id="1023" />
+      <edge source="Liberia" target="Angola" id="1024" />
+      <edge source="Liberia" target="Antigua and Barbuda" id="1025" />
+      <edge source="Liberia" target="Argentina" id="1026" />
+      <edge source="Liberia" target="Armenia" id="1027" />
+      <edge source="Liberia" target="Australia" id="1028" />
+      <edge source="Liberia" target="Austria" id="1029" />
+      <edge source="Liberia" target="Azerbaijan" id="1030" />
+      <edge source="Libya" target="Afghanistan" id="1031" />
+      <edge source="Libya" target="Albania" id="1032" />
+      <edge source="Libya" target="Algeria" id="1033" />
+      <edge source="Libya" target="Andorra" id="1034" />
+      <edge source="Libya" target="Angola" id="1035" />
+      <edge source="Libya" target="Antigua and Barbuda" id="1036" />
+      <edge source="Libya" target="Argentina" id="1037" />
+      <edge source="Libya" target="Armenia" id="1038" />
+      <edge source="Libya" target="Australia" id="1039" />
+      <edge source="Libya" target="Austria" id="1040" />
+      <edge source="Libya" target="Azerbaijan" id="1041" />
+      <edge source="Liechtenstein" target="Namibia" id="1042" />
+      <edge source="Liechtenstein" target="Nauru" id="1043" />
+      <edge source="Liechtenstein" target="Nepal" id="1044" />
+      <edge source="Liechtenstein" target="Netherlands" id="1045" />
+      <edge source="Liechtenstein" target="New Zealand" id="1046" />
+      <edge source="Liechtenstein" target="Nicaragua" id="1047" />
+      <edge source="Liechtenstein" target="Niger" id="1048" />
+      <edge source="Liechtenstein" target="Nigeria" id="1049" />
+      <edge source="Liechtenstein" target="North Korea" id="1050" />
+      <edge source="Liechtenstein" target="North Macedonia" id="1051" />
+      <edge source="Liechtenstein" target="Norway" id="1052" />
+      <edge source="Lithuania" target="Afghanistan" id="1053" />
+      <edge source="Lithuania" target="Albania" id="1054" />
+      <edge source="Lithuania" target="Algeria" id="1055" />
+      <edge source="Lithuania" target="Andorra" id="1056" />
+      <edge source="Lithuania" target="Angola" id="1057" />
+      <edge source="Lithuania" target="Antigua and Barbuda" id="1058" />
+      <edge source="Lithuania" target="Argentina" id="1059" />
+      <edge source="Lithuania" target="Armenia" id="1060" />
+      <edge source="Lithuania" target="Australia" id="1061" />
+      <edge source="Lithuania" target="Austria" id="1062" />
+      <edge source="Lithuania" target="Azerbaijan" id="1063" />
+      <edge source="Luxembourg" target="Gabon" id="1064" />
+      <edge source="Luxembourg" target="Gambia" id="1065" />
+      <edge source="Luxembourg" target="Georgia" id="1066" />
+      <edge source="Luxembourg" target="Germany" id="1067" />
+      <edge source="Luxembourg" target="Ghana" id="1068" />
+      <edge source="Luxembourg" target="Greece" id="1069" />
+      <edge source="Luxembourg" target="Grenada" id="1070" />
+      <edge source="Luxembourg" target="Guatemala" id="1071" />
+      <edge source="Luxembourg" target="Guinea" id="1072" />
+      <edge source="Luxembourg" target="Guinea-Bissau" id="1073" />
+      <edge source="Luxembourg" target="Guyana" id="1074" />
+      <edge source="Brunei" target="Iceland" id="1075" />
+      <edge source="Brunei" target="India" id="1076" />
+      <edge source="Brunei" target="Indonesia" id="1077" />
+      <edge source="Brunei" target="Iran" id="1078" />
+      <edge source="Brunei" target="Iraq" id="1079" />
+      <edge source="Brunei" target="Ireland" id="1080" />
+      <edge source="Brunei" target="Israel" id="1081" />
+      <edge source="Brunei" target="Italy" id="1082" />
+      <edge source="Iceland" target="Democratic Republic of the Congo" id="1083" />
+      <edge source="Iceland" target="Denmark" id="1084" />
+      <edge source="Iceland" target="Djibouti" id="1085" />
+      <edge source="Iceland" target="Dominica" id="1086" />
+      <edge source="Iceland" target="Dominican Republic" id="1087" />
+      <edge source="India" target="Afghanistan" id="1088" />
+      <edge source="India" target="Albania" id="1089" />
+      <edge source="India" target="Algeria" id="1090" />
+      <edge source="India" target="Andorra" id="1091" />
+      <edge source="India" target="Angola" id="1092" />
+      <edge source="India" target="Antigua and Barbuda" id="1093" />
+      <edge source="India" target="Argentina" id="1094" />
+      <edge source="India" target="Armenia" id="1095" />
+      <edge source="India" target="Australia" id="1096" />
+      <edge source="India" target="Austria" id="1097" />
+      <edge source="India" target="Azerbaijan" id="1098" />
+      <edge source="Indonesia" target="Afghanistan" id="1099" />
+      <edge source="Indonesia" target="Albania" id="1100" />
+      <edge source="Indonesia" target="Algeria" id="1101" />
+      <edge source="Indonesia" target="Andorra" id="1102" />
+      <edge source="Indonesia" target="Angola" id="1103" />
+      <edge source="Indonesia" target="Antigua and Barbuda" id="1104" />
+      <edge source="Indonesia" target="Argentina" id="1105" />
+      <edge source="Indonesia" target="Armenia" id="1106" />
+      <edge source="Indonesia" target="Australia" id="1107" />
+      <edge source="Indonesia" target="Austria" id="1108" />
+      <edge source="Indonesia" target="Azerbaijan" id="1109" />
+      <edge source="Iran" target="Namibia" id="1110" />
+      <edge source="Iran" target="Nauru" id="1111" />
+      <edge source="Iran" target="Nepal" id="1112" />
+      <edge source="Iran" target="Netherlands" id="1113" />
+      <edge source="Iran" target="New Zealand" id="1114" />
+      <edge source="Iran" target="Nicaragua" id="1115" />
+      <edge source="Iran" target="Niger" id="1116" />
+      <edge source="Iran" target="Nigeria" id="1117" />
+      <edge source="Iran" target="North Korea" id="1118" />
+      <edge source="Iran" target="North Macedonia" id="1119" />
+      <edge source="Iran" target="Norway" id="1120" />
+      <edge source="Iraq" target="Qatar" id="1121" />
+      <edge source="Ireland" target="Democratic Republic of the Congo" id="1122" />
+      <edge source="Ireland" target="Denmark" id="1123" />
+      <edge source="Ireland" target="Djibouti" id="1124" />
+      <edge source="Ireland" target="Dominica" id="1125" />
+      <edge source="Ireland" target="Dominican Republic" id="1126" />
+      <edge source="Israel" target="Laos" id="1127" />
+      <edge source="Israel" target="Latvia" id="1128" />
+      <edge source="Israel" target="Lebanon" id="1129" />
+      <edge source="Israel" target="Lesotho" id="1130" />
+      <edge source="Israel" target="Liberia" id="1131" />
+      <edge source="Israel" target="Libya" id="1132" />
+      <edge source="Israel" target="Liechtenstein" id="1133" />
+      <edge source="Israel" target="Lithuania" id="1134" />
+      <edge source="Israel" target="Luxembourg" id="1135" />
+      <edge source="Italy" target="Yemen" id="1136" />
+      <edge source="Bulgaria" target="Afghanistan" id="1137" />
+      <edge source="Bulgaria" target="Albania" id="1138" />
+      <edge source="Bulgaria" target="Algeria" id="1139" />
+      <edge source="Bulgaria" target="Andorra" id="1140" />
+      <edge source="Bulgaria" target="Angola" id="1141" />
+      <edge source="Bulgaria" target="Antigua and Barbuda" id="1142" />
+      <edge source="Bulgaria" target="Argentina" id="1143" />
+      <edge source="Bulgaria" target="Armenia" id="1144" />
+      <edge source="Bulgaria" target="Australia" id="1145" />
+      <edge source="Bulgaria" target="Austria" id="1146" />
+      <edge source="Bulgaria" target="Azerbaijan" id="1147" />
+      <edge source="Burkina Faso" target="Oman" id="1148" />
+      <edge source="Oman" target="Namibia" id="1149" />
+      <edge source="Oman" target="Nauru" id="1150" />
+      <edge source="Oman" target="Nepal" id="1151" />
+      <edge source="Oman" target="Netherlands" id="1152" />
+      <edge source="Oman" target="New Zealand" id="1153" />
+      <edge source="Oman" target="Nicaragua" id="1154" />
+      <edge source="Oman" target="Niger" id="1155" />
+      <edge source="Oman" target="Nigeria" id="1156" />
+      <edge source="Oman" target="North Korea" id="1157" />
+      <edge source="Oman" target="North Macedonia" id="1158" />
+      <edge source="Oman" target="Norway" id="1159" />
+      <edge source="Burundi" target="Iceland" id="1160" />
+      <edge source="Burundi" target="India" id="1161" />
+      <edge source="Burundi" target="Indonesia" id="1162" />
+      <edge source="Burundi" target="Iran" id="1163" />
+      <edge source="Burundi" target="Iraq" id="1164" />
+      <edge source="Burundi" target="Ireland" id="1165" />
+      <edge source="Burundi" target="Israel" id="1166" />
+      <edge source="Burundi" target="Italy" id="1167" />
+      <edge source="Cabo Verde" target="Ecuador" id="1168" />
+      <edge source="Cabo Verde" target="Egypt" id="1169" />
+      <edge source="Cabo Verde" target="El Salvador" id="1170" />
+      <edge source="Cabo Verde" target="Equatorial Guinea" id="1171" />
+      <edge source="Cabo Verde" target="Eritrea" id="1172" />
+      <edge source="Cabo Verde" target="Estonia" id="1173" />
+      <edge source="Cabo Verde" target="Eswatini" id="1174" />
+      <edge source="Cabo Verde" target="Ethiopia" id="1175" />
+      <edge source="Cambodia" target="Afghanistan" id="1176" />
+      <edge source="Cambodia" target="Albania" id="1177" />
+      <edge source="Cambodia" target="Algeria" id="1178" />
+      <edge source="Cambodia" target="Andorra" id="1179" />
+      <edge source="Cambodia" target="Angola" id="1180" />
+      <edge source="Cambodia" target="Antigua and Barbuda" id="1181" />
+      <edge source="Cambodia" target="Argentina" id="1182" />
+      <edge source="Cambodia" target="Armenia" id="1183" />
+      <edge source="Cambodia" target="Australia" id="1184" />
+      <edge source="Cambodia" target="Austria" id="1185" />
+      <edge source="Cambodia" target="Azerbaijan" id="1186" />
+      <edge source="Cameroon" target="Namibia" id="1187" />
+      <edge source="Cameroon" target="Nauru" id="1188" />
+      <edge source="Cameroon" target="Nepal" id="1189" />
+      <edge source="Cameroon" target="Netherlands" id="1190" />
+      <edge source="Cameroon" target="New Zealand" id="1191" />
+      <edge source="Cameroon" target="Nicaragua" id="1192" />
+      <edge source="Cameroon" target="Niger" id="1193" />
+      <edge source="Cameroon" target="Nigeria" id="1194" />
+      <edge source="Cameroon" target="North Korea" id="1195" />
+      <edge source="Cameroon" target="North Macedonia" id="1196" />
+      <edge source="Cameroon" target="Norway" id="1197" />
+      <edge source="Canada" target="Afghanistan" id="1198" />
+      <edge source="Canada" target="Albania" id="1199" />
+      <edge source="Canada" target="Algeria" id="1200" />
+      <edge source="Canada" target="Andorra" id="1201" />
+      <edge source="Canada" target="Angola" id="1202" />
+      <edge source="Canada" target="Antigua and Barbuda" id="1203" />
+      <edge source="Canada" target="Argentina" id="1204" />
+      <edge source="Canada" target="Armenia" id="1205" />
+      <edge source="Canada" target="Australia" id="1206" />
+      <edge source="Canada" target="Austria" id="1207" />
+      <edge source="Canada" target="Azerbaijan" id="1208" />
+      <edge source="Central African Republic" target="Cabo Verde" id="1209" />
+      <edge source="Central African Republic" target="Cambodia" id="1210" />
+      <edge source="Central African Republic" target="Cameroon" id="1211" />
+      <edge source="Central African Republic" target="Canada" id="1212" />
+      <edge source="Central African Republic" target="Chad" id="1213" />
+      <edge source="Central African Republic" target="Chile" id="1214" />
+      <edge source="Central African Republic" target="China" id="1215" />
+      <edge source="Central African Republic" target="Colombia" id="1216" />
+      <edge source="Central African Republic" target="Comoros" id="1217" />
+      <edge source="Central African Republic" target="Congo" id="1218" />
+      <edge source="Central African Republic" target="Costa Rica" id="1219" />
+      <edge source="Central African Republic" target="Croatia" id="1220" />
+      <edge source="Central African Republic" target="Cuba" id="1221" />
+      <edge source="Central African Republic" target="Cyprus" id="1222" />
+      <edge source="Central African Republic" target="Czechia" id="1223" />
+      <edge source="Chad" target="Democratic Republic of the Congo" id="1224" />
+      <edge source="Chad" target="Denmark" id="1225" />
+      <edge source="Chad" target="Djibouti" id="1226" />
+      <edge source="Chad" target="Dominica" id="1227" />
+      <edge source="Chad" target="Dominican Republic" id="1228" />
+      <edge source="Chile" target="Ecuador" id="1229" />
+      <edge source="Chile" target="Egypt" id="1230" />
+      <edge source="Chile" target="El Salvador" id="1231" />
+      <edge source="Chile" target="Equatorial Guinea" id="1232" />
+      <edge source="Chile" target="Eritrea" id="1233" />
+      <edge source="Chile" target="Estonia" id="1234" />
+      <edge source="Chile" target="Eswatini" id="1235" />
+      <edge source="Chile" target="Ethiopia" id="1236" />
+      <edge source="China" target="Afghanistan" id="1237" />
+      <edge source="China" target="Albania" id="1238" />
+      <edge source="China" target="Algeria" id="1239" />
+      <edge source="China" target="Andorra" id="1240" />
+      <edge source="China" target="Angola" id="1241" />
+      <edge source="China" target="Antigua and Barbuda" id="1242" />
+      <edge source="China" target="Argentina" id="1243" />
+      <edge source="China" target="Armenia" id="1244" />
+      <edge source="China" target="Australia" id="1245" />
+      <edge source="China" target="Austria" id="1246" />
+      <edge source="China" target="Azerbaijan" id="1247" />
+      <edge source="Colombia" target="Afghanistan" id="1248" />
+      <edge source="Colombia" target="Albania" id="1249" />
+      <edge source="Colombia" target="Algeria" id="1250" />
+      <edge source="Colombia" target="Andorra" id="1251" />
+      <edge source="Colombia" target="Angola" id="1252" />
+      <edge source="Colombia" target="Antigua and Barbuda" id="1253" />
+      <edge source="Colombia" target="Argentina" id="1254" />
+      <edge source="Colombia" target="Armenia" id="1255" />
+      <edge source="Colombia" target="Australia" id="1256" />
+      <edge source="Colombia" target="Austria" id="1257" />
+      <edge source="Colombia" target="Azerbaijan" id="1258" />
+      <edge source="Comoros" target="Saint Kitts and Nevis" id="1259" />
+      <edge source="Comoros" target="Saint Lucia" id="1260" />
+      <edge source="Comoros" target="Saint Vincent and the Grenadines" id="1261" />
+      <edge source="Comoros" target="Samoa" id="1262" />
+      <edge source="Comoros" target="San Marino" id="1263" />
+      <edge source="Comoros" target="Sao Tome and Principe" id="1264" />
+      <edge source="Comoros" target="Saudi Arabia" id="1265" />
+      <edge source="Comoros" target="Senegal" id="1266" />
+      <edge source="Comoros" target="Serbia" id="1267" />
+      <edge source="Comoros" target="Seychelles" id="1268" />
+      <edge source="Comoros" target="Sierra Leone" id="1269" />
+      <edge source="Comoros" target="Singapore" id="1270" />
+      <edge source="Comoros" target="Slovakia" id="1271" />
+      <edge source="Comoros" target="Slovenia" id="1272" />
+      <edge source="Comoros" target="Solomon Islands" id="1273" />
+      <edge source="Comoros" target="Somalia" id="1274" />
+      <edge source="Comoros" target="South Africa" id="1275" />
+      <edge source="Comoros" target="South Sudan" id="1276" />
+      <edge source="Comoros" target="Spain" id="1277" />
+      <edge source="Comoros" target="Sri Lanka" id="1278" />
+      <edge source="Comoros" target="Sudan" id="1279" />
+      <edge source="Comoros" target="Suriname" id="1280" />
+      <edge source="Comoros" target="Sweden" id="1281" />
+      <edge source="Comoros" target="Switzerland" id="1282" />
+      <edge source="Comoros" target="Syria" id="1283" />
+      <edge source="Congo" target="Oman" id="1284" />
+      <edge source="Costa Rica" target="Afghanistan" id="1285" />
+      <edge source="Costa Rica" target="Albania" id="1286" />
+      <edge source="Costa Rica" target="Algeria" id="1287" />
+      <edge source="Costa Rica" target="Andorra" id="1288" />
+      <edge source="Costa Rica" target="Angola" id="1289" />
+      <edge source="Costa Rica" target="Antigua and Barbuda" id="1290" />
+      <edge source="Costa Rica" target="Argentina" id="1291" />
+      <edge source="Costa Rica" target="Armenia" id="1292" />
+      <edge source="Costa Rica" target="Australia" id="1293" />
+      <edge source="Costa Rica" target="Austria" id="1294" />
+      <edge source="Costa Rica" target="Azerbaijan" id="1295" />
+      <edge source="Croatia" target="Afghanistan" id="1296" />
+      <edge source="Croatia" target="Albania" id="1297" />
+      <edge source="Croatia" target="Algeria" id="1298" />
+      <edge source="Croatia" target="Andorra" id="1299" />
+      <edge source="Croatia" target="Angola" id="1300" />
+      <edge source="Croatia" target="Antigua and Barbuda" id="1301" />
+      <edge source="Croatia" target="Argentina" id="1302" />
+      <edge source="Croatia" target="Armenia" id="1303" />
+      <edge source="Croatia" target="Australia" id="1304" />
+      <edge source="Croatia" target="Austria" id="1305" />
+      <edge source="Croatia" target="Azerbaijan" id="1306" />
+      <edge source="Cuba" target="Afghanistan" id="1307" />
+      <edge source="Cuba" target="Albania" id="1308" />
+      <edge source="Cuba" target="Algeria" id="1309" />
+      <edge source="Cuba" target="Andorra" id="1310" />
+      <edge source="Cuba" target="Angola" id="1311" />
+      <edge source="Cuba" target="Antigua and Barbuda" id="1312" />
+      <edge source="Cuba" target="Argentina" id="1313" />
+      <edge source="Cuba" target="Armenia" id="1314" />
+      <edge source="Cuba" target="Australia" id="1315" />
+      <edge source="Cuba" target="Austria" id="1316" />
+      <edge source="Cuba" target="Azerbaijan" id="1317" />
+      <edge source="Cyprus" target="Saint Kitts and Nevis" id="1318" />
+      <edge source="Cyprus" target="Saint Lucia" id="1319" />
+      <edge source="Cyprus" target="Saint Vincent and the Grenadines" id="1320" />
+      <edge source="Cyprus" target="Samoa" id="1321" />
+      <edge source="Cyprus" target="San Marino" id="1322" />
+      <edge source="Cyprus" target="Sao Tome and Principe" id="1323" />
+      <edge source="Cyprus" target="Saudi Arabia" id="1324" />
+      <edge source="Cyprus" target="Senegal" id="1325" />
+      <edge source="Cyprus" target="Serbia" id="1326" />
+      <edge source="Cyprus" target="Seychelles" id="1327" />
+      <edge source="Cyprus" target="Sierra Leone" id="1328" />
+      <edge source="Cyprus" target="Singapore" id="1329" />
+      <edge source="Cyprus" target="Slovakia" id="1330" />
+      <edge source="Cyprus" target="Slovenia" id="1331" />
+      <edge source="Cyprus" target="Solomon Islands" id="1332" />
+      <edge source="Cyprus" target="Somalia" id="1333" />
+      <edge source="Cyprus" target="South Africa" id="1334" />
+      <edge source="Cyprus" target="South Sudan" id="1335" />
+      <edge source="Cyprus" target="Spain" id="1336" />
+      <edge source="Cyprus" target="Sri Lanka" id="1337" />
+      <edge source="Cyprus" target="Sudan" id="1338" />
+      <edge source="Cyprus" target="Suriname" id="1339" />
+      <edge source="Cyprus" target="Sweden" id="1340" />
+      <edge source="Cyprus" target="Switzerland" id="1341" />
+      <edge source="Cyprus" target="Syria" id="1342" />
+      <edge source="Czechia" target="Afghanistan" id="1343" />
+      <edge source="Czechia" target="Albania" id="1344" />
+      <edge source="Czechia" target="Algeria" id="1345" />
+      <edge source="Czechia" target="Andorra" id="1346" />
+      <edge source="Czechia" target="Angola" id="1347" />
+      <edge source="Czechia" target="Antigua and Barbuda" id="1348" />
+      <edge source="Czechia" target="Argentina" id="1349" />
+      <edge source="Czechia" target="Armenia" id="1350" />
+      <edge source="Czechia" target="Australia" id="1351" />
+      <edge source="Czechia" target="Austria" id="1352" />
+      <edge source="Czechia" target="Azerbaijan" id="1353" />
+      <edge source="Democratic Republic of the Congo" target="Oman" id="1354" />
+      <edge source="Denmark" target="Kazakhstan" id="1355" />
+      <edge source="Denmark" target="Kenya" id="1356" />
+      <edge source="Denmark" target="Kiribati" id="1357" />
+      <edge source="Denmark" target="Kuwait" id="1358" />
+      <edge source="Denmark" target="Kyrgyzstan" id="1359" />
+      <edge source="Djibouti" target="Iceland" id="1360" />
+      <edge source="Djibouti" target="India" id="1361" />
+      <edge source="Djibouti" target="Indonesia" id="1362" />
+      <edge source="Djibouti" target="Iran" id="1363" />
+      <edge source="Djibouti" target="Iraq" id="1364" />
+      <edge source="Djibouti" target="Ireland" id="1365" />
+      <edge source="Djibouti" target="Israel" id="1366" />
+      <edge source="Djibouti" target="Italy" id="1367" />
+      <edge source="Dominica" target="Afghanistan" id="1368" />
+      <edge source="Dominica" target="Albania" id="1369" />
+      <edge source="Dominica" target="Algeria" id="1370" />
+      <edge source="Dominica" target="Andorra" id="1371" />
+      <edge source="Dominica" target="Angola" id="1372" />
+      <edge source="Dominica" target="Antigua and Barbuda" id="1373" />
+      <edge source="Dominica" target="Argentina" id="1374" />
+      <edge source="Dominica" target="Armenia" id="1375" />
+      <edge source="Dominica" target="Australia" id="1376" />
+      <edge source="Dominica" target="Austria" id="1377" />
+      <edge source="Dominica" target="Azerbaijan" id="1378" />
+      <edge source="Dominican Republic" target="Cabo Verde" id="1379" />
+      <edge source="Dominican Republic" target="Cambodia" id="1380" />
+      <edge source="Dominican Republic" target="Cameroon" id="1381" />
+      <edge source="Dominican Republic" target="Canada" id="1382" />
+      <edge source="Dominican Republic" target="Central African Republic" id="1383" />
+      <edge source="Dominican Republic" target="Chad" id="1384" />
+      <edge source="Dominican Republic" target="Chile" id="1385" />
+      <edge source="Dominican Republic" target="China" id="1386" />
+      <edge source="Dominican Republic" target="Colombia" id="1387" />
+      <edge source="Dominican Republic" target="Comoros" id="1388" />
+      <edge source="Dominican Republic" target="Congo" id="1389" />
+      <edge source="Dominican Republic" target="Costa Rica" id="1390" />
+      <edge source="Dominican Republic" target="Croatia" id="1391" />
+      <edge source="Dominican Republic" target="Cuba" id="1392" />
+      <edge source="Dominican Republic" target="Cyprus" id="1393" />
+      <edge source="Dominican Republic" target="Czechia" id="1394" />
+      <edge source="Kazakhstan" target="Namibia" id="1395" />
+      <edge source="Kazakhstan" target="Nauru" id="1396" />
+      <edge source="Kazakhstan" target="Nepal" id="1397" />
+      <edge source="Kazakhstan" target="Netherlands" id="1398" />
+      <edge source="Kazakhstan" target="New Zealand" id="1399" />
+      <edge source="Kazakhstan" target="Nicaragua" id="1400" />
+      <edge source="Kazakhstan" target="Niger" id="1401" />
+      <edge source="Kazakhstan" target="Nigeria" id="1402" />
+      <edge source="Kazakhstan" target="North Korea" id="1403" />
+      <edge source="Kazakhstan" target="North Macedonia" id="1404" />
+      <edge source="Kazakhstan" target="Norway" id="1405" />
+      <edge source="Kenya" target="Afghanistan" id="1406" />
+      <edge source="Kenya" target="Albania" id="1407" />
+      <edge source="Kenya" target="Algeria" id="1408" />
+      <edge source="Kenya" target="Andorra" id="1409" />
+      <edge source="Kenya" target="Angola" id="1410" />
+      <edge source="Kenya" target="Antigua and Barbuda" id="1411" />
+      <edge source="Kenya" target="Argentina" id="1412" />
+      <edge source="Kenya" target="Armenia" id="1413" />
+      <edge source="Kenya" target="Australia" id="1414" />
+      <edge source="Kenya" target="Austria" id="1415" />
+      <edge source="Kenya" target="Azerbaijan" id="1416" />
+      <edge source="Kiribati" target="Iceland" id="1417" />
+      <edge source="Kiribati" target="India" id="1418" />
+      <edge source="Kiribati" target="Indonesia" id="1419" />
+      <edge source="Kiribati" target="Iran" id="1420" />
+      <edge source="Kiribati" target="Iraq" id="1421" />
+      <edge source="Kiribati" target="Ireland" id="1422" />
+      <edge source="Kiribati" target="Israel" id="1423" />
+      <edge source="Kiribati" target="Italy" id="1424" />
+      <edge source="Kuwait" target="Taiwan" id="1425" />
+      <edge source="Kuwait" target="Tajikistan" id="1426" />
+      <edge source="Kuwait" target="Tanzania" id="1427" />
+      <edge source="Kuwait" target="Thailand" id="1428" />
+      <edge source="Kuwait" target="Timor-Leste" id="1429" />
+      <edge source="Kuwait" target="Togo" id="1430" />
+      <edge source="Kuwait" target="Tonga" id="1431" />
+      <edge source="Kuwait" target="Trinidad and Tobago" id="1432" />
+      <edge source="Kuwait" target="Tunisia" id="1433" />
+      <edge source="Kuwait" target="Turkey" id="1434" />
+      <edge source="Kuwait" target="Turkmenistan" id="1435" />
+      <edge source="Kuwait" target="Tuvalu" id="1436" />
+      <edge source="Kyrgyzstan" target="Namibia" id="1437" />
+      <edge source="Kyrgyzstan" target="Nauru" id="1438" />
+      <edge source="Kyrgyzstan" target="Nepal" id="1439" />
+      <edge source="Kyrgyzstan" target="Netherlands" id="1440" />
+      <edge source="Kyrgyzstan" target="New Zealand" id="1441" />
+      <edge source="Kyrgyzstan" target="Nicaragua" id="1442" />
+      <edge source="Kyrgyzstan" target="Niger" id="1443" />
+      <edge source="Kyrgyzstan" target="Nigeria" id="1444" />
+      <edge source="Kyrgyzstan" target="North Korea" id="1445" />
+      <edge source="Kyrgyzstan" target="North Macedonia" id="1446" />
+      <edge source="Kyrgyzstan" target="Norway" id="1447" />
+      <edge source="Romania" target="Afghanistan" id="1448" />
+      <edge source="Romania" target="Albania" id="1449" />
+      <edge source="Romania" target="Algeria" id="1450" />
+      <edge source="Romania" target="Andorra" id="1451" />
+      <edge source="Romania" target="Angola" id="1452" />
+      <edge source="Romania" target="Antigua and Barbuda" id="1453" />
+      <edge source="Romania" target="Argentina" id="1454" />
+      <edge source="Romania" target="Armenia" id="1455" />
+      <edge source="Romania" target="Australia" id="1456" />
+      <edge source="Romania" target="Austria" id="1457" />
+      <edge source="Romania" target="Azerbaijan" id="1458" />
+      <edge source="Russia" target="Afghanistan" id="1459" />
+      <edge source="Russia" target="Albania" id="1460" />
+      <edge source="Russia" target="Algeria" id="1461" />
+      <edge source="Russia" target="Andorra" id="1462" />
+      <edge source="Russia" target="Angola" id="1463" />
+      <edge source="Russia" target="Antigua and Barbuda" id="1464" />
+      <edge source="Russia" target="Argentina" id="1465" />
+      <edge source="Russia" target="Armenia" id="1466" />
+      <edge source="Russia" target="Australia" id="1467" />
+      <edge source="Russia" target="Austria" id="1468" />
+      <edge source="Russia" target="Azerbaijan" id="1469" />
+      <edge source="Rwanda" target="Afghanistan" id="1470" />
+      <edge source="Rwanda" target="Albania" id="1471" />
+      <edge source="Rwanda" target="Algeria" id="1472" />
+      <edge source="Rwanda" target="Andorra" id="1473" />
+      <edge source="Rwanda" target="Angola" id="1474" />
+      <edge source="Rwanda" target="Antigua and Barbuda" id="1475" />
+      <edge source="Rwanda" target="Argentina" id="1476" />
+      <edge source="Rwanda" target="Armenia" id="1477" />
+      <edge source="Rwanda" target="Australia" id="1478" />
+      <edge source="Rwanda" target="Austria" id="1479" />
+      <edge source="Rwanda" target="Azerbaijan" id="1480" />
+      <edge source="Taiwan" target="Namibia" id="1481" />
+      <edge source="Taiwan" target="Nauru" id="1482" />
+      <edge source="Taiwan" target="Nepal" id="1483" />
+      <edge source="Taiwan" target="Netherlands" id="1484" />
+      <edge source="Taiwan" target="New Zealand" id="1485" />
+      <edge source="Taiwan" target="Nicaragua" id="1486" />
+      <edge source="Taiwan" target="Niger" id="1487" />
+      <edge source="Taiwan" target="Nigeria" id="1488" />
+      <edge source="Taiwan" target="North Korea" id="1489" />
+      <edge source="Taiwan" target="North Macedonia" id="1490" />
+      <edge source="Taiwan" target="Norway" id="1491" />
+      <edge source="Tajikistan" target="Namibia" id="1492" />
+      <edge source="Tajikistan" target="Nauru" id="1493" />
+      <edge source="Tajikistan" target="Nepal" id="1494" />
+      <edge source="Tajikistan" target="Netherlands" id="1495" />
+      <edge source="Tajikistan" target="New Zealand" id="1496" />
+      <edge source="Tajikistan" target="Nicaragua" id="1497" />
+      <edge source="Tajikistan" target="Niger" id="1498" />
+      <edge source="Tajikistan" target="Nigeria" id="1499" />
+      <edge source="Tajikistan" target="North Korea" id="1500" />
+      <edge source="Tajikistan" target="North Macedonia" id="1501" />
+      <edge source="Tajikistan" target="Norway" id="1502" />
+      <edge source="Tanzania" target="Afghanistan" id="1503" />
+      <edge source="Tanzania" target="Albania" id="1504" />
+      <edge source="Tanzania" target="Algeria" id="1505" />
+      <edge source="Tanzania" target="Andorra" id="1506" />
+      <edge source="Tanzania" target="Angola" id="1507" />
+      <edge source="Tanzania" target="Antigua and Barbuda" id="1508" />
+      <edge source="Tanzania" target="Argentina" id="1509" />
+      <edge source="Tanzania" target="Armenia" id="1510" />
+      <edge source="Tanzania" target="Australia" id="1511" />
+      <edge source="Tanzania" target="Austria" id="1512" />
+      <edge source="Tanzania" target="Azerbaijan" id="1513" />
+      <edge source="Thailand" target="Democratic Republic of the Congo" id="1514" />
+      <edge source="Thailand" target="Denmark" id="1515" />
+      <edge source="Thailand" target="Djibouti" id="1516" />
+      <edge source="Thailand" target="Dominica" id="1517" />
+      <edge source="Thailand" target="Dominican Republic" id="1518" />
+      <edge source="Timor-Leste" target="Ecuador" id="1519" />
+      <edge source="Timor-Leste" target="Egypt" id="1520" />
+      <edge source="Timor-Leste" target="El Salvador" id="1521" />
+      <edge source="Timor-Leste" target="Equatorial Guinea" id="1522" />
+      <edge source="Timor-Leste" target="Eritrea" id="1523" />
+      <edge source="Timor-Leste" target="Estonia" id="1524" />
+      <edge source="Timor-Leste" target="Eswatini" id="1525" />
+      <edge source="Timor-Leste" target="Ethiopia" id="1526" />
+      <edge source="Togo" target="Oman" id="1527" />
+      <edge source="Tonga" target="Afghanistan" id="1528" />
+      <edge source="Tonga" target="Albania" id="1529" />
+      <edge source="Tonga" target="Algeria" id="1530" />
+      <edge source="Tonga" target="Andorra" id="1531" />
+      <edge source="Tonga" target="Angola" id="1532" />
+      <edge source="Tonga" target="Antigua and Barbuda" id="1533" />
+      <edge source="Tonga" target="Argentina" id="1534" />
+      <edge source="Tonga" target="Armenia" id="1535" />
+      <edge source="Tonga" target="Australia" id="1536" />
+      <edge source="Tonga" target="Austria" id="1537" />
+      <edge source="Tonga" target="Azerbaijan" id="1538" />
+      <edge source="Trinidad and Tobago" target="Oman" id="1539" />
+      <edge source="Tunisia" target="Afghanistan" id="1540" />
+      <edge source="Tunisia" target="Albania" id="1541" />
+      <edge source="Tunisia" target="Algeria" id="1542" />
+      <edge source="Tunisia" target="Andorra" id="1543" />
+      <edge source="Tunisia" target="Angola" id="1544" />
+      <edge source="Tunisia" target="Antigua and Barbuda" id="1545" />
+      <edge source="Tunisia" target="Argentina" id="1546" />
+      <edge source="Tunisia" target="Armenia" id="1547" />
+      <edge source="Tunisia" target="Australia" id="1548" />
+      <edge source="Tunisia" target="Austria" id="1549" />
+      <edge source="Tunisia" target="Azerbaijan" id="1550" />
+      <edge source="Turkey" target="Yemen" id="1551" />
+      <edge source="Turkmenistan" target="Namibia" id="1552" />
+      <edge source="Turkmenistan" target="Nauru" id="1553" />
+      <edge source="Turkmenistan" target="Nepal" id="1554" />
+      <edge source="Turkmenistan" target="Netherlands" id="1555" />
+      <edge source="Turkmenistan" target="New Zealand" id="1556" />
+      <edge source="Turkmenistan" target="Nicaragua" id="1557" />
+      <edge source="Turkmenistan" target="Niger" id="1558" />
+      <edge source="Turkmenistan" target="Nigeria" id="1559" />
+      <edge source="Turkmenistan" target="North Korea" id="1560" />
+      <edge source="Turkmenistan" target="North Macedonia" id="1561" />
+      <edge source="Turkmenistan" target="Norway" id="1562" />
+      <edge source="Tuvalu" target="Uganda" id="1563" />
+      <edge source="Tuvalu" target="Ukraine" id="1564" />
+      <edge source="Tuvalu" target="United Arab Emirates" id="1565" />
+      <edge source="Tuvalu" target="United Kingdom" id="1566" />
+      <edge source="Tuvalu" target="United States" id="1567" />
+      <edge source="Tuvalu" target="Uruguay" id="1568" />
+      <edge source="Tuvalu" target="Uzbekistan" id="1569" />
+      <edge source="Fiji" target="Iceland" id="1570" />
+      <edge source="Fiji" target="India" id="1571" />
+      <edge source="Fiji" target="Indonesia" id="1572" />
+      <edge source="Fiji" target="Iran" id="1573" />
+      <edge source="Fiji" target="Iraq" id="1574" />
+      <edge source="Fiji" target="Ireland" id="1575" />
+      <edge source="Fiji" target="Israel" id="1576" />
+      <edge source="Fiji" target="Italy" id="1577" />
+      <edge source="Finland" target="Democratic Republic of the Congo" id="1578" />
+      <edge source="Finland" target="Denmark" id="1579" />
+      <edge source="Finland" target="Djibouti" id="1580" />
+      <edge source="Finland" target="Dominica" id="1581" />
+      <edge source="Finland" target="Dominican Republic" id="1582" />
+      <edge source="France" target="Ecuador" id="1583" />
+      <edge source="France" target="Egypt" id="1584" />
+      <edge source="France" target="El Salvador" id="1585" />
+      <edge source="France" target="Equatorial Guinea" id="1586" />
+      <edge source="France" target="Eritrea" id="1587" />
+      <edge source="France" target="Estonia" id="1588" />
+      <edge source="France" target="Eswatini" id="1589" />
+      <edge source="France" target="Ethiopia" id="1590" />
+      <edge source="Gabon" target="Namibia" id="1591" />
+      <edge source="Gabon" target="Nauru" id="1592" />
+      <edge source="Gabon" target="Nepal" id="1593" />
+      <edge source="Gabon" target="Netherlands" id="1594" />
+      <edge source="Gabon" target="New Zealand" id="1595" />
+      <edge source="Gabon" target="Nicaragua" id="1596" />
+      <edge source="Gabon" target="Niger" id="1597" />
+      <edge source="Gabon" target="Nigeria" id="1598" />
+      <edge source="Gabon" target="North Korea" id="1599" />
+      <edge source="Gabon" target="North Macedonia" id="1600" />
+      <edge source="Gabon" target="Norway" id="1601" />
+      <edge source="Gambia" target="Afghanistan" id="1602" />
+      <edge source="Gambia" target="Albania" id="1603" />
+      <edge source="Gambia" target="Algeria" id="1604" />
+      <edge source="Gambia" target="Andorra" id="1605" />
+      <edge source="Gambia" target="Angola" id="1606" />
+      <edge source="Gambia" target="Antigua and Barbuda" id="1607" />
+      <edge source="Gambia" target="Argentina" id="1608" />
+      <edge source="Gambia" target="Armenia" id="1609" />
+      <edge source="Gambia" target="Australia" id="1610" />
+      <edge source="Gambia" target="Austria" id="1611" />
+      <edge source="Gambia" target="Azerbaijan" id="1612" />
+      <edge source="Georgia" target="Afghanistan" id="1613" />
+      <edge source="Georgia" target="Albania" id="1614" />
+      <edge source="Georgia" target="Algeria" id="1615" />
+      <edge source="Georgia" target="Andorra" id="1616" />
+      <edge source="Georgia" target="Angola" id="1617" />
+      <edge source="Georgia" target="Antigua and Barbuda" id="1618" />
+      <edge source="Georgia" target="Argentina" id="1619" />
+      <edge source="Georgia" target="Armenia" id="1620" />
+      <edge source="Georgia" target="Australia" id="1621" />
+      <edge source="Georgia" target="Austria" id="1622" />
+      <edge source="Georgia" target="Azerbaijan" id="1623" />
+      <edge source="Germany" target="Yemen" id="1624" />
+      <edge source="Yemen" target="Namibia" id="1625" />
+      <edge source="Yemen" target="Nauru" id="1626" />
+      <edge source="Yemen" target="Nepal" id="1627" />
+      <edge source="Yemen" target="Netherlands" id="1628" />
+      <edge source="Yemen" target="New Zealand" id="1629" />
+      <edge source="Yemen" target="Nicaragua" id="1630" />
+      <edge source="Yemen" target="Niger" id="1631" />
+      <edge source="Yemen" target="Nigeria" id="1632" />
+      <edge source="Yemen" target="North Korea" id="1633" />
+      <edge source="Yemen" target="North Macedonia" id="1634" />
+      <edge source="Yemen" target="Norway" id="1635" />
+      <edge source="Ghana" target="Afghanistan" id="1636" />
+      <edge source="Ghana" target="Albania" id="1637" />
+      <edge source="Ghana" target="Algeria" id="1638" />
+      <edge source="Ghana" target="Andorra" id="1639" />
+      <edge source="Ghana" target="Angola" id="1640" />
+      <edge source="Ghana" target="Antigua and Barbuda" id="1641" />
+      <edge source="Ghana" target="Argentina" id="1642" />
+      <edge source="Ghana" target="Armenia" id="1643" />
+      <edge source="Ghana" target="Australia" id="1644" />
+      <edge source="Ghana" target="Austria" id="1645" />
+      <edge source="Ghana" target="Azerbaijan" id="1646" />
+      <edge source="Greece" target="Ecuador" id="1647" />
+      <edge source="Greece" target="Egypt" id="1648" />
+      <edge source="Greece" target="El Salvador" id="1649" />
+      <edge source="Greece" target="Equatorial Guinea" id="1650" />
+      <edge source="Greece" target="Eritrea" id="1651" />
+      <edge source="Greece" target="Estonia" id="1652" />
+      <edge source="Greece" target="Eswatini" id="1653" />
+      <edge source="Greece" target="Ethiopia" id="1654" />
+      <edge source="Grenada" target="Afghanistan" id="1655" />
+      <edge source="Grenada" target="Albania" id="1656" />
+      <edge source="Grenada" target="Algeria" id="1657" />
+      <edge source="Grenada" target="Andorra" id="1658" />
+      <edge source="Grenada" target="Angola" id="1659" />
+      <edge source="Grenada" target="Antigua and Barbuda" id="1660" />
+      <edge source="Grenada" target="Argentina" id="1661" />
+      <edge source="Grenada" target="Armenia" id="1662" />
+      <edge source="Grenada" target="Australia" id="1663" />
+      <edge source="Grenada" target="Austria" id="1664" />
+      <edge source="Grenada" target="Azerbaijan" id="1665" />
+      <edge source="Guatemala" target="Afghanistan" id="1666" />
+      <edge source="Guatemala" target="Albania" id="1667" />
+      <edge source="Guatemala" target="Algeria" id="1668" />
+      <edge source="Guatemala" target="Andorra" id="1669" />
+      <edge source="Guatemala" target="Angola" id="1670" />
+      <edge source="Guatemala" target="Antigua and Barbuda" id="1671" />
+      <edge source="Guatemala" target="Argentina" id="1672" />
+      <edge source="Guatemala" target="Armenia" id="1673" />
+      <edge source="Guatemala" target="Australia" id="1674" />
+      <edge source="Guatemala" target="Austria" id="1675" />
+      <edge source="Guatemala" target="Azerbaijan" id="1676" />
+      <edge source="Guinea" target="Afghanistan" id="1677" />
+      <edge source="Guinea" target="Albania" id="1678" />
+      <edge source="Guinea" target="Algeria" id="1679" />
+      <edge source="Guinea" target="Andorra" id="1680" />
+      <edge source="Guinea" target="Angola" id="1681" />
+      <edge source="Guinea" target="Antigua and Barbuda" id="1682" />
+      <edge source="Guinea" target="Argentina" id="1683" />
+      <edge source="Guinea" target="Armenia" id="1684" />
+      <edge source="Guinea" target="Australia" id="1685" />
+      <edge source="Guinea" target="Austria" id="1686" />
+      <edge source="Guinea" target="Azerbaijan" id="1687" />
+      <edge source="Guinea-Bissau" target="Uganda" id="1688" />
+      <edge source="Guinea-Bissau" target="Ukraine" id="1689" />
+      <edge source="Guinea-Bissau" target="United Arab Emirates" id="1690" />
+      <edge source="Guinea-Bissau" target="United Kingdom" id="1691" />
+      <edge source="Guinea-Bissau" target="United States" id="1692" />
+      <edge source="Guinea-Bissau" target="Uruguay" id="1693" />
+      <edge source="Guinea-Bissau" target="Uzbekistan" id="1694" />
+      <edge source="Uganda" target="Afghanistan" id="1695" />
+      <edge source="Uganda" target="Albania" id="1696" />
+      <edge source="Uganda" target="Algeria" id="1697" />
+      <edge source="Uganda" target="Andorra" id="1698" />
+      <edge source="Uganda" target="Angola" id="1699" />
+      <edge source="Uganda" target="Antigua and Barbuda" id="1700" />
+      <edge source="Uganda" target="Argentina" id="1701" />
+      <edge source="Uganda" target="Armenia" id="1702" />
+      <edge source="Uganda" target="Australia" id="1703" />
+      <edge source="Uganda" target="Austria" id="1704" />
+      <edge source="Uganda" target="Azerbaijan" id="1705" />
+      <edge source="Ukraine" target="Ecuador" id="1706" />
+      <edge source="Ukraine" target="Egypt" id="1707" />
+      <edge source="Ukraine" target="El Salvador" id="1708" />
+      <edge source="Ukraine" target="Equatorial Guinea" id="1709" />
+      <edge source="Ukraine" target="Eritrea" id="1710" />
+      <edge source="Ukraine" target="Estonia" id="1711" />
+      <edge source="Ukraine" target="Eswatini" id="1712" />
+      <edge source="Ukraine" target="Ethiopia" id="1713" />
+      <edge source="United Arab Emirates" target="Saint Kitts and Nevis" id="1714" />
+      <edge source="United Arab Emirates" target="Saint Lucia" id="1715" />
+      <edge source="United Arab Emirates" target="Saint Vincent and the Grenadines" id="1716" />
+      <edge source="United Arab Emirates" target="Samoa" id="1717" />
+      <edge source="United Arab Emirates" target="San Marino" id="1718" />
+      <edge source="United Arab Emirates" target="Sao Tome and Principe" id="1719" />
+      <edge source="United Arab Emirates" target="Saudi Arabia" id="1720" />
+      <edge source="United Arab Emirates" target="Senegal" id="1721" />
+      <edge source="United Arab Emirates" target="Serbia" id="1722" />
+      <edge source="United Arab Emirates" target="Seychelles" id="1723" />
+      <edge source="United Arab Emirates" target="Sierra Leone" id="1724" />
+      <edge source="United Arab Emirates" target="Singapore" id="1725" />
+      <edge source="United Arab Emirates" target="Slovakia" id="1726" />
+      <edge source="United Arab Emirates" target="Slovenia" id="1727" />
+      <edge source="United Arab Emirates" target="Solomon Islands" id="1728" />
+      <edge source="United Arab Emirates" target="Somalia" id="1729" />
+      <edge source="United Arab Emirates" target="South Africa" id="1730" />
+      <edge source="United Arab Emirates" target="South Sudan" id="1731" />
+      <edge source="United Arab Emirates" target="Spain" id="1732" />
+      <edge source="United Arab Emirates" target="Sri Lanka" id="1733" />
+      <edge source="United Arab Emirates" target="Sudan" id="1734" />
+      <edge source="United Arab Emirates" target="Suriname" id="1735" />
+      <edge source="United Arab Emirates" target="Sweden" id="1736" />
+      <edge source="United Arab Emirates" target="Switzerland" id="1737" />
+      <edge source="United Arab Emirates" target="Syria" id="1738" />
+      <edge source="United Kingdom" target="Madagascar" id="1739" />
+      <edge source="United Kingdom" target="Malawi" id="1740" />
+      <edge source="United Kingdom" target="Malaysia" id="1741" />
+      <edge source="United Kingdom" target="Maldives" id="1742" />
+      <edge source="United Kingdom" target="Mali" id="1743" />
+      <edge source="United Kingdom" target="Malta" id="1744" />
+      <edge source="United Kingdom" target="Marshall Islands" id="1745" />
+      <edge source="United Kingdom" target="Mauritania" id="1746" />
+      <edge source="United Kingdom" target="Mauritius" id="1747" />
+      <edge source="United Kingdom" target="Mexico" id="1748" />
+      <edge source="United Kingdom" target="Micronesia" id="1749" />
+      <edge source="United Kingdom" target="Moldova" id="1750" />
+      <edge source="United Kingdom" target="Monaco" id="1751" />
+      <edge source="United Kingdom" target="Mongolia" id="1752" />
+      <edge source="United Kingdom" target="Montenegro" id="1753" />
+      <edge source="United Kingdom" target="Morocco" id="1754" />
+      <edge source="United Kingdom" target="Mozambique" id="1755" />
+      <edge source="United Kingdom" target="Myanmar" id="1756" />
+      <edge source="United States" target="Saint Kitts and Nevis" id="1757" />
+      <edge source="United States" target="Saint Lucia" id="1758" />
+      <edge source="United States" target="Saint Vincent and the Grenadines" id="1759" />
+      <edge source="United States" target="Samoa" id="1760" />
+      <edge source="United States" target="San Marino" id="1761" />
+      <edge source="United States" target="Sao Tome and Principe" id="1762" />
+      <edge source="United States" target="Saudi Arabia" id="1763" />
+      <edge source="United States" target="Senegal" id="1764" />
+      <edge source="United States" target="Serbia" id="1765" />
+      <edge source="United States" target="Seychelles" id="1766" />
+      <edge source="United States" target="Sierra Leone" id="1767" />
+      <edge source="United States" target="Singapore" id="1768" />
+      <edge source="United States" target="Slovakia" id="1769" />
+      <edge source="United States" target="Slovenia" id="1770" />
+      <edge source="United States" target="Solomon Islands" id="1771" />
+      <edge source="United States" target="Somalia" id="1772" />
+      <edge source="United States" target="South Africa" id="1773" />
+      <edge source="United States" target="South Sudan" id="1774" />
+      <edge source="United States" target="Spain" id="1775" />
+      <edge source="United States" target="Sri Lanka" id="1776" />
+      <edge source="United States" target="Sudan" id="1777" />
+      <edge source="United States" target="Suriname" id="1778" />
+      <edge source="United States" target="Sweden" id="1779" />
+      <edge source="United States" target="Switzerland" id="1780" />
+      <edge source="United States" target="Syria" id="1781" />
+      <edge source="Uruguay" target="Yemen" id="1782" />
+      <edge source="Uzbekistan" target="Namibia" id="1783" />
+      <edge source="Uzbekistan" target="Nauru" id="1784" />
+      <edge source="Uzbekistan" target="Nepal" id="1785" />
+      <edge source="Uzbekistan" target="Netherlands" id="1786" />
+      <edge source="Uzbekistan" target="New Zealand" id="1787" />
+      <edge source="Uzbekistan" target="Nicaragua" id="1788" />
+      <edge source="Uzbekistan" target="Niger" id="1789" />
+      <edge source="Uzbekistan" target="Nigeria" id="1790" />
+      <edge source="Uzbekistan" target="North Korea" id="1791" />
+      <edge source="Uzbekistan" target="North Macedonia" id="1792" />
+      <edge source="Uzbekistan" target="Norway" id="1793" />
+      <edge source="Guyana" target="Afghanistan" id="1794" />
+      <edge source="Guyana" target="Albania" id="1795" />
+      <edge source="Guyana" target="Algeria" id="1796" />
+      <edge source="Guyana" target="Andorra" id="1797" />
+      <edge source="Guyana" target="Angola" id="1798" />
+      <edge source="Guyana" target="Antigua and Barbuda" id="1799" />
+      <edge source="Guyana" target="Argentina" id="1800" />
+      <edge source="Guyana" target="Armenia" id="1801" />
+      <edge source="Guyana" target="Australia" id="1802" />
+      <edge source="Guyana" target="Austria" id="1803" />
+      <edge source="Guyana" target="Azerbaijan" id="1804" />
+      <edge source="Qatar" target="Romania" id="1805" />
+      <edge source="Qatar" target="Russia" id="1806" />
+      <edge source="Qatar" target="Rwanda" id="1807" />
+      <edge source="Jamaica" target="Afghanistan" id="1808" />
+      <edge source="Jamaica" target="Albania" id="1809" />
+      <edge source="Jamaica" target="Algeria" id="1810" />
+      <edge source="Jamaica" target="Andorra" id="1811" />
+      <edge source="Jamaica" target="Angola" id="1812" />
+      <edge source="Jamaica" target="Antigua and Barbuda" id="1813" />
+      <edge source="Jamaica" target="Argentina" id="1814" />
+      <edge source="Jamaica" target="Armenia" id="1815" />
+      <edge source="Jamaica" target="Australia" id="1816" />
+      <edge source="Jamaica" target="Austria" id="1817" />
+      <edge source="Jamaica" target="Azerbaijan" id="1818" />
+      <edge source="Japan" target="Namibia" id="1819" />
+      <edge source="Japan" target="Nauru" id="1820" />
+      <edge source="Japan" target="Nepal" id="1821" />
+      <edge source="Japan" target="Netherlands" id="1822" />
+      <edge source="Japan" target="New Zealand" id="1823" />
+      <edge source="Japan" target="Nicaragua" id="1824" />
+      <edge source="Japan" target="Niger" id="1825" />
+      <edge source="Japan" target="Nigeria" id="1826" />
+      <edge source="Japan" target="North Korea" id="1827" />
+      <edge source="Japan" target="North Macedonia" id="1828" />
+      <edge source="Japan" target="Norway" id="1829" />
+      <edge source="Jordan" target="Namibia" id="1830" />
+      <edge source="Jordan" target="Nauru" id="1831" />
+      <edge source="Jordan" target="Nepal" id="1832" />
+      <edge source="Jordan" target="Netherlands" id="1833" />
+      <edge source="Jordan" target="New Zealand" id="1834" />
+      <edge source="Jordan" target="Nicaragua" id="1835" />
+      <edge source="Jordan" target="Niger" id="1836" />
+      <edge source="Jordan" target="Nigeria" id="1837" />
+      <edge source="Jordan" target="North Korea" id="1838" />
+      <edge source="Jordan" target="North Macedonia" id="1839" />
+      <edge source="Jordan" target="Norway" id="1840" />
+      <edge source="Pakistan" target="Namibia" id="1841" />
+      <edge source="Pakistan" target="Nauru" id="1842" />
+      <edge source="Pakistan" target="Nepal" id="1843" />
+      <edge source="Pakistan" target="Netherlands" id="1844" />
+      <edge source="Pakistan" target="New Zealand" id="1845" />
+      <edge source="Pakistan" target="Nicaragua" id="1846" />
+      <edge source="Pakistan" target="Niger" id="1847" />
+      <edge source="Pakistan" target="Nigeria" id="1848" />
+      <edge source="Pakistan" target="North Korea" id="1849" />
+      <edge source="Pakistan" target="North Macedonia" id="1850" />
+      <edge source="Pakistan" target="Norway" id="1851" />
+      <edge source="Palau" target="Uganda" id="1852" />
+      <edge source="Palau" target="Ukraine" id="1853" />
+      <edge source="Palau" target="United Arab Emirates" id="1854" />
+      <edge source="Palau" target="United Kingdom" id="1855" />
+      <edge source="Palau" target="United States" id="1856" />
+      <edge source="Palau" target="Uruguay" id="1857" />
+      <edge source="Palau" target="Uzbekistan" id="1858" />
+      <edge source="Panama" target="Afghanistan" id="1859" />
+      <edge source="Panama" target="Albania" id="1860" />
+      <edge source="Panama" target="Algeria" id="1861" />
+      <edge source="Panama" target="Andorra" id="1862" />
+      <edge source="Panama" target="Angola" id="1863" />
+      <edge source="Panama" target="Antigua and Barbuda" id="1864" />
+      <edge source="Panama" target="Argentina" id="1865" />
+      <edge source="Panama" target="Armenia" id="1866" />
+      <edge source="Panama" target="Australia" id="1867" />
+      <edge source="Panama" target="Austria" id="1868" />
+      <edge source="Panama" target="Azerbaijan" id="1869" />
+      <edge source="Papua New Guinea" target="Afghanistan" id="1870" />
+      <edge source="Papua New Guinea" target="Albania" id="1871" />
+      <edge source="Papua New Guinea" target="Algeria" id="1872" />
+      <edge source="Papua New Guinea" target="Andorra" id="1873" />
+      <edge source="Papua New Guinea" target="Angola" id="1874" />
+      <edge source="Papua New Guinea" target="Antigua and Barbuda" id="1875" />
+      <edge source="Papua New Guinea" target="Argentina" id="1876" />
+      <edge source="Papua New Guinea" target="Armenia" id="1877" />
+      <edge source="Papua New Guinea" target="Australia" id="1878" />
+      <edge source="Papua New Guinea" target="Austria" id="1879" />
+      <edge source="Papua New Guinea" target="Azerbaijan" id="1880" />
+      <edge source="Paraguay" target="Yemen" id="1881" />
+      <edge source="Peru" target="Uganda" id="1882" />
+      <edge source="Peru" target="Ukraine" id="1883" />
+      <edge source="Peru" target="United Arab Emirates" id="1884" />
+      <edge source="Peru" target="United Kingdom" id="1885" />
+      <edge source="Peru" target="United States" id="1886" />
+      <edge source="Peru" target="Uruguay" id="1887" />
+      <edge source="Peru" target="Uzbekistan" id="1888" />
+      <edge source="Philippines" target="Saint Kitts and Nevis" id="1889" />
+      <edge source="Philippines" target="Saint Lucia" id="1890" />
+      <edge source="Philippines" target="Saint Vincent and the Grenadines" id="1891" />
+      <edge source="Philippines" target="Samoa" id="1892" />
+      <edge source="Philippines" target="San Marino" id="1893" />
+      <edge source="Philippines" target="Sao Tome and Principe" id="1894" />
+      <edge source="Philippines" target="Saudi Arabia" id="1895" />
+      <edge source="Philippines" target="Senegal" id="1896" />
+      <edge source="Philippines" target="Serbia" id="1897" />
+      <edge source="Philippines" target="Seychelles" id="1898" />
+      <edge source="Philippines" target="Sierra Leone" id="1899" />
+      <edge source="Philippines" target="Singapore" id="1900" />
+      <edge source="Philippines" target="Slovakia" id="1901" />
+      <edge source="Philippines" target="Slovenia" id="1902" />
+      <edge source="Philippines" target="Solomon Islands" id="1903" />
+      <edge source="Philippines" target="Somalia" id="1904" />
+      <edge source="Philippines" target="South Africa" id="1905" />
+      <edge source="Philippines" target="South Sudan" id="1906" />
+      <edge source="Philippines" target="Spain" id="1907" />
+      <edge source="Philippines" target="Sri Lanka" id="1908" />
+      <edge source="Philippines" target="Sudan" id="1909" />
+      <edge source="Philippines" target="Suriname" id="1910" />
+      <edge source="Philippines" target="Sweden" id="1911" />
+      <edge source="Philippines" target="Switzerland" id="1912" />
+      <edge source="Philippines" target="Syria" id="1913" />
+      <edge source="Poland" target="Democratic Republic of the Congo" id="1914" />
+      <edge source="Poland" target="Denmark" id="1915" />
+      <edge source="Poland" target="Djibouti" id="1916" />
+      <edge source="Poland" target="Dominica" id="1917" />
+      <edge source="Poland" target="Dominican Republic" id="1918" />
+      <edge source="Portugal" target="Laos" id="1919" />
+      <edge source="Portugal" target="Latvia" id="1920" />
+      <edge source="Portugal" target="Lebanon" id="1921" />
+      <edge source="Portugal" target="Lesotho" id="1922" />
+      <edge source="Portugal" target="Liberia" id="1923" />
+      <edge source="Portugal" target="Libya" id="1924" />
+      <edge source="Portugal" target="Liechtenstein" id="1925" />
+      <edge source="Portugal" target="Lithuania" id="1926" />
+      <edge source="Portugal" target="Luxembourg" id="1927" />
+      <edge source="Vanuatu" target="Uganda" id="1928" />
+      <edge source="Vanuatu" target="Ukraine" id="1929" />
+      <edge source="Vanuatu" target="United Arab Emirates" id="1930" />
+      <edge source="Vanuatu" target="United Kingdom" id="1931" />
+      <edge source="Vanuatu" target="United States" id="1932" />
+      <edge source="Vanuatu" target="Uruguay" id="1933" />
+      <edge source="Vanuatu" target="Uzbekistan" id="1934" />
+      <edge source="Vatican City" target="Yemen" id="1935" />
+      <edge source="Venezuela" target="Afghanistan" id="1936" />
+      <edge source="Venezuela" target="Albania" id="1937" />
+      <edge source="Venezuela" target="Algeria" id="1938" />
+      <edge source="Venezuela" target="Andorra" id="1939" />
+      <edge source="Venezuela" target="Angola" id="1940" />
+      <edge source="Venezuela" target="Antigua and Barbuda" id="1941" />
+      <edge source="Venezuela" target="Argentina" id="1942" />
+      <edge source="Venezuela" target="Armenia" id="1943" />
+      <edge source="Venezuela" target="Australia" id="1944" />
+      <edge source="Venezuela" target="Austria" id="1945" />
+      <edge source="Venezuela" target="Azerbaijan" id="1946" />
+      <edge source="Vietnam" target="Madagascar" id="1947" />
+      <edge source="Vietnam" target="Malawi" id="1948" />
+      <edge source="Vietnam" target="Malaysia" id="1949" />
+      <edge source="Vietnam" target="Maldives" id="1950" />
+      <edge source="Vietnam" target="Mali" id="1951" />
+      <edge source="Vietnam" target="Malta" id="1952" />
+      <edge source="Vietnam" target="Marshall Islands" id="1953" />
+      <edge source="Vietnam" target="Mauritania" id="1954" />
+      <edge source="Vietnam" target="Mauritius" id="1955" />
+      <edge source="Vietnam" target="Mexico" id="1956" />
+      <edge source="Vietnam" target="Micronesia" id="1957" />
+      <edge source="Vietnam" target="Moldova" id="1958" />
+      <edge source="Vietnam" target="Monaco" id="1959" />
+      <edge source="Vietnam" target="Mongolia" id="1960" />
+      <edge source="Vietnam" target="Montenegro" id="1961" />
+      <edge source="Vietnam" target="Morocco" id="1962" />
+      <edge source="Vietnam" target="Mozambique" id="1963" />
+      <edge source="Vietnam" target="Myanmar" id="1964" />
+      <edge source="Zambia" target="Afghanistan" id="1965" />
+      <edge source="Zambia" target="Albania" id="1966" />
+      <edge source="Zambia" target="Algeria" id="1967" />
+      <edge source="Zambia" target="Andorra" id="1968" />
+      <edge source="Zambia" target="Angola" id="1969" />
+      <edge source="Zambia" target="Antigua and Barbuda" id="1970" />
+      <edge source="Zambia" target="Argentina" id="1971" />
+      <edge source="Zambia" target="Armenia" id="1972" />
+      <edge source="Zambia" target="Australia" id="1973" />
+      <edge source="Zambia" target="Austria" id="1974" />
+      <edge source="Zambia" target="Azerbaijan" id="1975" />
+      <edge source="Zimbabwe" target="Ecuador" id="1976" />
+      <edge source="Zimbabwe" target="Egypt" id="1977" />
+      <edge source="Zimbabwe" target="El Salvador" id="1978" />
+      <edge source="Zimbabwe" target="Equatorial Guinea" id="1979" />
+      <edge source="Zimbabwe" target="Eritrea" id="1980" />
+      <edge source="Zimbabwe" target="Estonia" id="1981" />
+      <edge source="Zimbabwe" target="Eswatini" id="1982" />
+      <edge source="Zimbabwe" target="Ethiopia" id="1983" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,6 +1,5 @@
 # ATLAS Graph - Link Prediction
-Link to the Task Presentation: https://drive.google.com/drive/folders/1wVFBRVk_FMRwD3y3sknhjwwEPrJisk4D?usp=sharing 
-
+Link to the Task Presentation: https://drive.google.com/drive/folders/1wVFBRVk_FMRwD3y3sknhjwwEPrJisk4D?usp=sharing
 This repo has code and resources to perform link prediction on the ATLAS graph dataset. Graph Analysis and plotting is done using gephi.
 The project involves masking some edges and training models using:
 
@@ -33,20 +32,19 @@ python3 country_graph.py city_graph.py final.py
 ### 2. Link Prediction Analysis
 Train Node2Vec and PyG by running:
 ```bash
-python3 bonus.py
+python bonus.py
 ```
+
 
 ## Results
 The models are evaluated based on link prediction accuracy, using metrics such as:
-
-For node2vec:
 - Mean
 - Standard Deviation
-
-For PyG:
+for node2vec, and
 - Area Under the Curve (AUC)
 - Precision-Recall Score
-
+for PyG
+Plots for Graph Property Analysis are available in respective folders.
 
 ### Author
 Sudhanva Joshi
