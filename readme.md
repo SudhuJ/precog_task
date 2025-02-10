@@ -33,17 +33,20 @@ python3 country_graph.py city_graph.py final.py
 ### 2. Link Prediction Analysis
 Train Node2Vec and PyG by running:
 ```bash
-python bonus.py
+python3 bonus.py
 ```
 
 ## Results
 The models are evaluated based on link prediction accuracy, using metrics such as:
+
+For node2vec:
 - Mean
 - Standard Deviation
-for node2vec, and
+
+For PyG:
 - Area Under the Curve (AUC)
 - Precision-Recall Score
-for PyG
+
 
 ### Author
 Sudhanva Joshi
