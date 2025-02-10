@@ -1,5 +1,5 @@
 # ATLAS Graph - Link Prediction
-Link to the Task Presentation: https://drive.google.com/drive/folders/1wVFBRVk_FMRwD3y3sknhjwwEPrJisk4D?usp=sharing
+Link to the Task Presentation: https://drive.google.com/drive/folders/1wVFBRVk_FMRwD3y3sknhjwwEPrJisk4D?usp=sharing \ns
 This repo has code and resources to perform link prediction on the ATLAS graph dataset. Graph Analysis and plotting is done using gephi.
 The project involves masking some edges and training models using:
 
