@@ -51,6 +51,3 @@ For PyG:
 
 Plots for Graph Property Analysis are available in respective folders.
 
-### Author
-Sudhanva Joshi
-
