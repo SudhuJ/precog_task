@@ -33,7 +33,7 @@ python3 country_graph.py city_graph.py final.py
 ### 2. Link Prediction Analysis
 Train Node2Vec and PyG by running:
 ```bash
-python bonus.py
+python3 bonus.py
 ```
 
 
